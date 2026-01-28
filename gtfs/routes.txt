@@ -1,0 +1,50 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_sort_order,direction0_name,direction1_name,route_group
+1,OPTYMO_URB,1,Valdoie - Résidences,3,D3414E,FFFFFF,0,Résidences,Valdoie,
+2,OPTYMO_URB,2,Justice - Bavilliers / Cravanche,3,E79129,FFFFFF,1,Cravanche,Justice,
+3,OPTYMO_URB,3,Valdoie - Gare TGV / Châtenois,3,60A4DF,FFFFFF,2,Châtenois,Valdoie,
+4,OPTYMO_URB,4,Offemont - Pépinière,3,570091,FFFFFF,3,Pépinière,Offemont,
+5,OPTYMO_URB,5,Prés d'Aumont - Essert,3,68C88C,FFFFFF,4,Essert,Prés d'Aumont,
+8,OPTYMO_URB,8,Essert - Cravanche,3,BEAA61,FFFFFF,5,1ère Armée,Liberté,
+9,OPTYMO_SUB,9,Belfort République - Quartier Miotte,3,324E87,FFFFFF,6,Belfort République,Quartier Miotte,
+20,OPTYMO_SUB,20,Lepuix / Giromagny - Valdoie,3,33888A,FFFFFF,7,Valdoie,Giromagny,
+21,OPTYMO_SUB,21,Belfort > Rougemont > Etueffont > Belfort,3,3F55C5,FFFFFF,8,Belfort République,Rougemont / Etueffont,
+22,OPTYMO_SUB,22,Belfort > Etueffont > Rougemont > Belfort,3,3F55C5,FFFFFF,9,Belfort République,Etueffont / Rougemont,
+23,OPTYMO_SUB,23,Fontaine - Belfort,3,E88439,FFFFFF,10,Belfort République,Fontaine,
+24,OPTYMO_SUB,24,Morvillars / Vézelois - Belfort,3,F8FC6D,191919,11,Belfort République,Morvillars,
+25,OPTYMO_SUB,25,Delle - Gare TGV,3,6A4893,FFFFFF,12,Gare TGV,Delle,
+26,OPTYMO_SUB,26,Beaucourt - Gare TGV,3,BEC537,FFFFFF,13,Gare TGV,Beaucourt,
+30,OPTYMO_SUB,30,Auxelles-Haut - Valdoie,3,B4B1A8,FFFFFF,14,Valdoie,Auxelles-Haut,
+31,OPTYMO_SUB,31,Giromagny - Valdoie (via Petitmagny),3,6A5841,FFFFFF,15,Valdoie,Giromagny par Petitmagny,
+32,OPTYMO_SUB,32,Rougemont - Belfort (via Felon),3,B4B1A8,FFFFFF,16,Belfort République,Rougemont le Château par Felon,
+33,OPTYMO_SUB,33,Menoncourt - Belfort (via Reppe),3,6A5841,FFFFFF,17,Belfort République,Menoncourt par reppe,
+34,OPTYMO_SUB,34,Montreux-Le-Château - Belfort,3,B4B1A8,FFFFFF,18,Belfort République,Montreux-Château,
+35,OPTYMO_SUB,35,Meroux TGV - Belfort (via Bretagne),3,6A5841,FFFFFF,19,Belfort République,Gare TGV par Bretagne,
+36,OPTYMO_SUB,36,Chavannes-Les-Grands - Delle,3,B4B1A8,FFFFFF,20,Chavannes les Grands,Delle,
+37,OPTYMO_SUB,37,Beaucourt - Delle (via Croix),3,6A5841,FFFFFF,21,Beaucourt par croix,Delle par Croix,
+38,OPTYMO_SUB,38,Beaucourt - Delle,3,B4B1A8,FFFFFF,22,Beaucourt,Delle,
+39,OPTYMO_SUB,39,Botans - Bavilliers,3,6A5841,FFFFFF,23,Bavilliers,Botans,
+40,OPTYMO_SUB,40,Etueffont - Auxelles-Bas,3,B4B1A8,FFFFFF,24,Etueffont,Auxelles-Bas,
+41,OPTYMO_SUB,41,AP 90,3,B4B1A8,FFFFFF,25,,,
+42,OPTYMO_SUB,42,Ligne 42,3,000000,FFFFFF,26,,,
+51,OPTYMO_SUB,51,Lycées Belfort - Ligne A,3,A1A1A1,000000,27,,,Services scolaires
+53,OPTYMO_SUB,53,Rougemont le Château - Colucci - Ligne C,3,A1A1A1,000000,28,,,Services scolaires
+57,OPTYMO_SUB,57,Valdoie - Goscinny / Belfort - Courbet - Ligne G,3,A1A1A1,000000,29,,,Services scolaires
+60,OPTYMO_SUB,60,Giromagny - Rosemont - Ligne J,3,A1A1A1,000000,30,,,Services scolaires
+61,OPTYMO_SUB,61,Lycée Courbet - Ligne K,3,A1A1A1,000000,31,,,Services scolaires
+62,OPTYMO_SUB,62,Lycées Belfort - Ligne L,3,A1A1A1,000000,32,,,Services scolaires
+63,OPTYMO_SUB,63,Lycées Belfort - Ligne M,3,A1A1A1,000000,33,,,Services scolaires
+64,OPTYMO_SUB,64,Morvillars - Lucie Aubrac - Ligne N,3,A1A1A1,000000,34,,,Services scolaires
+66,OPTYMO_SUB,66,Delle - Cité Scolaire - Ligne P,3,A1A1A1,000000,35,,,Services scolaires
+67,OPTYMO_SUB,67,Danjoutin - Mozart - Ligne Q,3,A1A1A1,000000,36,,,Services scolaires
+68,OPTYMO_SUB,68,Lycées Belfort - Ligne R,3,A1A1A1,000000,37,,,Services scolaires
+69,OPTYMO_SUB,69,Renfo Scol Urbain - Ligne S,3,A1A1A1,000000,38,,,
+70,OPTYMO_SUB,70,Montreux Château - Camille Claudel - Ligne T,3,A1A1A1,000000,39,,,Services scolaires
+71,OPTYMO_SUB,71,Beaucourt - St Exupéry - Ligne U,3,A1A1A1,000000,40,,,Services scolaires
+72,OPTYMO_SUB,72,Belfort - Vauban - Ligne V,3,A1A1A1,000000,41,,,Services scolaires
+90,OPTYMO_SUB,90,Giromagny - Belfort Gare,3,70ACAD,FFFFFF,42,Belfort Gare,Giromagny,
+91,OPTYMO_SUB,91,Rougemont - Belfort Gare (via Etueffont),3,6B76AD,FFFFFF,43,Belfort Gare,Rougemont,
+92,OPTYMO_SUB,92,Montreux - Belfort Gare (via Fontaine),3,EFA974,FFFFFF,44,Belfort Gare,Montreux-Château,
+93,OPTYMO_SUB,93,Beaucourt - Gare TGV (via Delle),3,977FB3,FFFFFF,45,Gare TGV par Delle,Beaucourt par Delle,
+ALS,OPTYMO_URB,ALS,Auto Libre Service,3,CA555E,FFFFFF,46,,,
+VLS,OPTYMO_URB,VLS,Vélo Libre Service,3,4CA893,FFFFFF,47,,,
+55,OPTYMO_SUB,X,Belfort - Montbéliard,3,9A61B9,FFFFFF,48,Belfort,Montbéliard,

@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+OPTYMO_SUB,OPTYMO suburbain,http://www.optymo.fr,Europe/Paris,fr,0800 304 863
+OPTYMO_URB,OPTYMO urbain,http://www.optymo.fr,Europe/Paris,fr,0800 304 863

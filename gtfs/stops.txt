@@ -1,0 +1,1582 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding,ext_id,city_name
+10152,,1er RA,47.57868600,6.89817100,,,1,,0,RgA,Bourogne
+10263,,1re Armée,47.65500800,6.84750600,,,1,,0,1armé,Belfort
+11565,,1ère Dfl,47.74844000,6.82059800,,,1,,0,1DFL,Giromagny
+10594,,4 As,47.63807200,6.85512900,,,1,,1,4as,Belfort
+11518,,5ème Db,47.61649600,6.79043400,,,1,,0,5DB,Buc
+11219,,Acacias,47.60208700,6.81869500,,,1,,0,Aca,Argiésans
+11722,,Ackermann,47.51192000,7.01201400,,,1,,0,AKM0,Delle
+11744,,Acropole,47.50975600,6.80197700,,,1,,0,Acro0,Montbéliard
+11571,,Adour,47.49285100,6.97781100,,,1,,0,Adou,Lebetain
+11523,,Allaine,47.51030000,7.00159400,,,1,,0,Allai,Delle
+11562,,Alsace,47.73748200,6.83463300,,,1,,0,Alsac,Giromagny
+10288,,Alstom Etang,47.65003000,6.83344300,,,1,,0,ALst,Cravanche
+10296,,Altkirch,47.63145300,6.86799300,,,1,,0,Altk,Belfort
+11324,,Ancienne Douane,47.63556100,7.00541900,,,1,,0,AncDo,Foussemagne
+11605,,Ancienne Gare,47.73291600,6.96888100,,,1,,0,AncGa,Rougemont-le-Château
+11650,,Ancienne École,47.78289000,6.83409600,,,1,,0,AHS,Lepuix
+11676,,Andelnans,47.60170400,6.86585700,,,1,,0,AIU01,Andelnans
+10145,,Andelnans Prés,47.60676900,6.85896200,,,1,,0,Andel,Andelnans
+11334,,Angeot,47.69622700,7.01431600,,,1,,0,Angeo,Angeot
+11736,,Angoulotte,47.51301400,6.91335400,,,1,,0,AKV0,Dampierre-les-Bois
+11544,,Anjoutey,47.70079500,6.93289000,,,1,,0,Anjou,Anjoutey
+11573,,Ap90,47.55628700,6.93058400,,,1,,0,AP90,Morvillars
+11621,,Arcades,47.48522000,6.92580000,,,1,,0,Arcad,Beaucourt
+11240,,Argiésans,47.60384700,6.82259800,,,1,,0,ArC,Argiésans
+11341,,As de Trèfle,47.64159500,6.86777300,,,1,,0,AsT,Belfort
+11576,,Atria,47.64138200,6.86271300,,,1,,0,Atria,Belfort
+10120,,Aubépines,47.68456000,6.85830300,,,1,,0,aubé,Éloie
+11392,,Autrechêne,47.59547500,6.96053400,,,1,,0,Autre,Autrechêne
+11430,,Auxelles-Bas,47.73470800,6.78138600,,,1,,0,aux,Auxelles-Bas
+11433,,Auxelles-Haut,47.74289000,6.77158000,,,1,,0,AxH,Auxelles-Haut
+11536,,Aéroparc,47.66078000,7.00892000,,,1,,0,AerPa,Fontaine
+11521,,Badevel,47.50359700,6.93875200,,,1,,0,BAd,Badevel
+10002,,Ballinamuck,47.63990600,6.80027500,,,1,,0,BJO,Essert
+10300,,Ballon,47.66311400,6.87592600,,,1,,0,BAllo,Offemont
+11741,,Bambois,47.53020900,7.00624700,,,1,,0,bam01,Joncherey
+11514,,Banvillars,47.59199000,6.81544600,,,1,,0,Banv,Banvillars
+11410,,Barbier,47.66943400,6.81195600,,,1,,0,Barbi,Évette-Salbert
+11760,,Barcot,47.65676600,6.84567600,,,1,,0,BAR01,Belfort
+11735,,Barrière Blanche,47.50989900,6.91312100,,,1,,0,AKU0,Dampierre-les-Bois
+11218,,Bas du Village,47.64834000,6.79057000,,,1,,0,BdV,Évette-Salbert
+10628,,Bascule,47.57162100,6.86171800,,,1,,0,Bascu,Trévenans
+11749,,Batterie,47.53132200,6.96141700,,,1,,0,BAT,Grandvillars
+10316,,Bavilliers,47.62074700,6.83448200,,,1,,0,MaBav,Bavilliers
+11318,,Bavière,47.73632400,6.96892400,,,1,,0,Bavi,Rougemont-le-Château
+11568,,Beaucourt,47.48603000,6.92445000,,,1,,0,MaBea,Beaucourt
+11559,,Bellevue,47.72575000,6.83170500,,,1,,0,Belvu,Chaux
+11163,,Benoît Frachon,47.65531600,6.83710300,,,1,,0,BeFra,Cravanche
+11220,,Berger,47.60705900,6.84692700,,,1,,0,Fro,Andelnans
+11707,,Berly,47.65376000,6.83074900,,,1,,0,AJY01,Cravanche
+11510,,Bermont,47.57982000,6.85293000,,,1,,0,Berm,Bermont
+11296,,Bessoncourt,47.64558200,6.93132000,,,1,,0,Bes,Bessoncourt
+11489,,Beucler,47.48789000,6.92599000,,,1,,0,BEU,Beaucourt
+10526,,Beurrerie,47.67397200,6.84454100,,,1,,0,Beurr,Valdoie
+11165,,Bichat,47.64150200,6.88124300,,,1,,0,Bicha,Belfort
+11487,,Blessonniers,47.49395000,6.92258800,,,1,,0,Bless,Beaucourt
+10275,,Blum,47.63446100,6.84660100,,,1,,0,Blu,Belfort
+11320,,Bochets,47.64669900,6.98315600,,,1,,0,Fra,Frais
+10304,,Bohn,47.64859400,6.84689500,,,1,,1,Bohn,Belfort
+11770,,Bois d'Essert,47.63615500,6.84662500,,,1,,0,BOI01,Belfort
+11740,,Bois Joli,47.64133900,6.79568200,,,1,,0,CHA,Châlonvillars
+11547,,Bois Sarclés,47.71271000,6.92451000,,,1,,0,BoiSa,Étueffont
+11391,,Bon Bois,47.59810000,6.96095000,,,1,,0,BonBo,Autrechêne
+11548,,Bonnaymé,47.71594400,6.92333400,,,1,,0,Bonna,Étueffont
+10319,,Bonneff,47.62874000,6.84562600,,,1,,0,Bonne,Belfort
+11381,,Boron,47.55997000,7.01216000,,,1,,0,Boron,Boron
+10141,,Bosmont,47.62070500,6.86587200,,,1,,1,Bosmo,Danjoutin
+11508,,Botans,47.59620500,6.85375000,,,1,,0,Botan,Botans
+11572,,Boulloche,47.50285100,6.99165300,,,1,,0,Boull,Delle
+11507,,Bouloye,47.59462500,6.84899400,,,1,,0,BOu,Botans
+11329,,Bourbet,47.66645200,7.02783400,,,1,,0,Bou,Reppe
+11705,,Bourg-Sous-Châtelet,47.70096700,6.94880200,,,1,,0,AJW01,Bourg-sous-Châtelet
+10155,,Bourogne,47.56094500,6.91938700,,,1,,0,Mbour,Bourogne
+11608,,Brassens,47.48598000,6.92413000,,,1,,0,Brass,Beaucourt
+11377,,Brebotte,47.57786000,6.97423000,,,1,,0,Brebo,Brebotte
+11384,,Bretagne,47.59393300,6.99819900,,,1,,0,Breta,Bretagne
+11461,,Bretilloux,47.52421300,6.99242600,,,1,,0,Breti,Thiancourt
+10270,,Briand,47.65562400,6.86241500,,,1,,0,Brian,Offemont
+11737,,Brières,47.48286700,6.91373500,,,1,,0,AKW0,Beaucourt
+10503,,Bruxelles,47.63390700,6.84373900,,,1,,0,Brux,Belfort
+11432,,Bruyères,47.74300000,6.77455000,,,1,,0,BRu,Auxelles-Haut
+11614,,Buc,47.61440000,6.78414000,,,1,,0,BUC,Buc
+11532,,Buchers,47.53673300,6.97924000,,,1,,0,Buc,Grandvillars
+11694,,Calvaire,47.53523200,6.96362700,,,1,,0,AJM01,Grandvillars
+10326,,Camus,47.64159000,6.87834500,,,1,,0,Camus,Belfort
+10156,,Canal,47.55772400,6.92393000,,,1,,0,Canal,Bourogne
+11790,,Canal du Moulin,47.65460000,6.99579300,,,1,,0,C2M00,Fontaine
+11464,,Caporal Peugeot,47.52410400,7.01058500,,,1,,0,Cpo,Joncherey
+11687,,Carrefour,47.59544300,6.99726700,,,1,,0,AJF01,Bretagne
+10311,,Carrières,47.63511500,6.82969100,,,1,,0,CArri,Essert
+11668,,Centre,47.58888700,6.84043500,,,1,,0,AIM01,Dorans
+11222,,Centre Commercial,47.65915500,6.86738000,,,1,,0,CtC,Offemont
+11349,,Centre Équestre,47.62943400,6.93476900,,,1,,0,CtE,Chèvremont
+11290,,Cerisiers,47.63738200,6.88916400,,,1,,0,AHA,Pérouse
+10325,,CFA,47.64007200,6.87823200,,,1,,0,CFA,Belfort
+11300,,Chalet,47.67018900,6.94913700,,,1,,0,Chale,Menoncourt
+10271,,Champ de Mars,47.65291200,6.86250500,,,1,,0,Champ,Belfort
+11569,,Champs au Roi,47.47013500,6.95904800,,,1,,0,ChRoi,Saint-Dizier-l'Évêque
+11221,,Champs Cerisiers,47.65976000,6.88765000,,,1,,0,Cer,Offemont
+11302,,Champs de la Vigne,47.68132500,6.96253300,,,1,,0,ChVig,Bethonvilliers
+11661,,Chantoiseau,47.75537100,6.85134300,,,1,,0,AIE,Vescemont
+11309,,Chapelle,47.71730600,7.02701200,,,1,,0,Chape,Lachapelle-sous-Rougemont
+11372,,Charmois,47.57195300,6.94000600,,,1,,0,CHARM,Charmois
+11545,,Charmotte,47.70584500,6.92751100,,,1,,0,Charm,Anjoutey
+10495,,Chaume,47.69426400,6.87682400,,,1,,0,ElCha,Éloie
+11763,,Chaumière,47.81019400,6.84613400,,,1,,0,Chau1,Lepuix
+11557,,Chaux,47.70596000,6.83696000,,,1,,0,Chaux,Chaux
+11479,,Chavanatte,47.57784700,7.06834200,,,1,,0,CVT,Chavanatte
+11481,,Chavannes-les-Grands,47.59115200,7.04772100,,,1,,0,CHlGR,Chavannes-les-Grands
+11666,,Chemin de la Concenterie,47.76558000,6.89008800,,,1,,0,AIH,Riervescemont
+10001,,Chemin de la Ferme,47.63897500,6.80242000,,,1,,0,CHF,Essert
+11335,,Chemin du Moulin,47.68023900,6.99996600,,,1,,0,ChMou,Larivière
+11715,,Chenecées,47.60605900,6.96832000,,,1,,0,AKF01,Novillard
+11313,,Château d'Eau,47.72383300,7.00287700,,,1,,0,Châ,Petitefontaine
+11325,,Château Tuilerie,47.63970600,7.00336400,,,1,,0,ChTui,Foussemagne
+10482,,Châtenois,47.55899500,6.85092900,,,1,,0,MCH,Châtenois-les-Forges
+10162,,Châtenois Forges,47.56271200,6.85433700,,,1,,0,forge,Châtenois-les-Forges
+11393,,Chèvremont,47.62788000,6.92347000,,,1,,0,Ché,Chèvremont
+11475,,Chésal,47.54172800,7.09725500,,,1,,0,CHé,Lepuix-Neuf
+11615,,Chêne,47.60993500,6.80878200,,,1,,0,Chêne,Urcerey
+11791,,Chênes,47.56282400,6.94216600,,,1,,0,CHN0,Froidefontaine
+10486,,Chênois,47.61942800,6.84771000,,,1,,0,CHE,Danjoutin
+11678,,Cimetière,47.55587300,6.85164100,,,1,,0,AIW01,Châtenois-les-Forges
+10328,,Cimetière Militaire,47.63832500,6.87210400,,,1,,0,CiMil,Belfort
+11493,,Cité du Val,47.47705200,6.91453100,,,1,,0,CtV,Dasle
+11574,,Cité Jules Ferry,47.50901800,6.99059700,,,1,,0,JuFer,Delle
+11680,,Cités du Maroc,47.56234900,6.86001300,,,1,,0,AIY01,Trévenans
+11743,,Clair Chenois,47.67194800,6.99228700,,,1,,0,AKZ,Larivière
+11522,,Claret,47.50783700,7.00323200,,,1,,0,Cla,Delle
+11345,,Clinique,47.64347300,6.86451900,,,1,,0,AHD,Belfort
+11136,,Clémenceau,47.64120200,6.85897000,,,1,,0,Cle,Belfort
+10138,,Colbert,47.62856500,6.85674200,,,1,,0,Colbe,Belfort
+11783,,Colline,47.70134500,6.82024400,,,1,,0,COL01,Lachapelle-sous-Chaux
+11684,,Collège Camille Claudel,47.61040300,7.00301900,,,1,,0,AJC01,Montreux-Château
+11703,,Collège Colucci,47.73466200,6.97194000,,,1,,0,AJU01,Rougemont-le-Château
+11692,,Collège Lucie Aubrac,47.54783200,6.93350200,,,1,,0,AJK01,Morvillars
+11670,,Collège Mozart,47.61620400,6.86429000,,,1,,0,AIO01,Danjoutin
+11667,,Collège Saint Exupéry,47.49347200,6.91657300,,,1,,0,AIL01,Beaucourt
+11712,,Collège Vauban Parking,47.63974200,6.88000200,,,1,,0,AKC,Belfort
+10260,,Colmar,47.64865000,6.85362900,,,1,,0,COlma,Belfort
+11682,,Combattes,47.55690100,6.86789200,,,1,,0,AJA01,Trévenans
+10158,,Conforama,47.57616600,6.86017600,,,1,,0,Rtber,Trévenans
+10308,,Courbet,47.65442600,6.85628600,,,1,,0,Courb,Belfort
+11463,,Courcelles,47.49921000,7.07703000,,,1,,0,eco,Courcelles
+11483,,Courtelevant,47.51810000,7.07976700,,,1,,0,Court,Courtelevant
+11180,,Cravanche Centre,47.65380100,6.83315800,,,1,,0,CrC,Cravanche
+11171,,Cravanchoise,47.65243500,6.82859000,,,1,,0,Cva,Cravanche
+11299,,Croisement,47.66486500,6.96016200,,,1,,0,Cro,Lacollonge
+11480,,Croisée,47.58017100,7.06621300,,,1,,0,cro,Chavanatte
+11570,,Croix,47.44572400,6.95470000,,,1,,0,Croix,Croix
+11629,,Croix du Bois,47.74120000,6.78091100,,,1,,0,CxB,Auxelles-Haut
+11681,,Croze,47.55431900,6.86754900,,,1,,0,AIZ01,Trévenans
+11537,,Cunelières,47.62548500,6.99788500,,,1,,0,Cunel,Cunelières
+11655,,Côte le Saint,47.69898100,6.80557500,,,1,,0,AHX,Lachapelle-sous-Chaux
+11815,,Dambenois,47.55043500,6.86797100,,,1,,0,DAM01,Dambenois
+11733,,Dampierre les Bois,47.50616600,6.91270100,,,1,,0,AKS0,Dampierre-les-Bois
+10007,,De Gaulle,47.63590000,6.80751500,,,1,,0,DEG,Essert
+11721,,De Lattre,47.51371100,7.00756800,,,1,,0,AKL0,Delle
+11718,,De Vinci,47.63214800,6.84939200,,,1,,0,AKI01,Belfort
+11454,,Delle Gare,47.50589000,7.00822000,,,1,,0,Dga,Delle
+11135,,Denfert Rochereau,47.63407900,6.85740100,,,1,,0,DRo,Belfort
+11607,,Denney,47.65919900,6.91828000,,,1,,0,Denne,Denney
+11343,,Deshaie,47.64521400,6.86917800,,,1,,0,AHF,Belfort
+11583,,Devant les Monts,47.66940200,6.90436500,,,1,,0,DvMon,Vétrigne
+11734,,Dodillet,47.50763100,6.91195300,,,1,,0,AKT0,Dampierre-les-Bois
+10307,,Donation Maurice Jardot,47.64290700,6.85367500,,,1,,0,Hopit,Belfort
+11513,,Dorans,47.58962700,6.83615600,,,1,,0,Doran,Dorans
+11669,,Douce,47.58964200,6.84206600,,,1,,0,AIN01,Dorans
+11162,,Dubail,47.63559600,6.84947200,,,1,,0,DUb,Belfort
+11385,,Ecrevisse,47.57991500,6.96975800,,,1,,0,Ecrev,Brebotte
+11580,,Ecureuils,47.66629200,6.88900900,,,1,,0,Ecure,Vétrigne
+11554,,Egalité,47.68722100,6.83797900,,,1,,0,Egali,Sermamagny
+11415,,Egrins,47.67095300,6.79274700,,,1,,0,Egr,Évette-Salbert
+10524,,Eloie,47.69023200,6.87358100,,,1,,0,Eloie,Éloie
+10626,,Eluard,47.61677700,6.86161000,,,1,,0,Eluar,Danjoutin
+11558,,Eparses,47.71929000,6.83261000,,,1,,0,Epar,Chaux
+11386,,Eschêne,47.58618000,6.95974000,,,1,,0,Esc,Autrechêne
+10154,,Espace Gantner,47.56377500,6.91717200,,,1,,0,Gantn,Bourogne
+10309,,Essert,47.63429800,6.81885700,,,1,,0,Essce,Essert
+11328,,Etang,47.66337400,7.02769900,,,1,,0,Eta,Reppe
+11331,,Etang Prévot,47.68512800,7.02708200,,,1,,0,EtgPr,Vauthiermont
+11315,,Etangs Charmottes,47.72827400,6.98733200,,,1,,0,EtgCh,Leval
+11412,,Evette-Salbert,47.67678900,6.79958400,,,1,,0,EvSal,Évette-Salbert
+11590,,Fahy,47.66640300,6.96758600,,,1,,0,Fahy,Lacollonge
+11540,,Faubourg de Brisach,47.64206600,6.87200100,,,1,,0,PhGri,Belfort
+11505,,Faubourg de Montbéliard,47.50461100,6.98949300,,,1,,0,Rtm,Delle
+11617,,Favernot,47.62877500,6.99369500,,,1,,0,Faver,Cunelières
+11466,,Faverois,47.52087300,7.03433800,,,1,,0,fav,Faverois
+11414,,Favery,47.67089800,6.78723300,,,1,,0,Fav,Évette-Salbert
+11306,,Felon,47.70490300,6.97722000,,,1,,0,Felon,Felon
+10302,,Ferrette,47.65445200,6.84408200,,,1,,0,Ferre,Belfort
+11552,,Fg d'Alsace,47.65338000,6.89666500,,,1,,0,FbgAl,Denney
+10135,,Fg de Lyon,47.63498100,6.85029000,,,1,,0,FLyon,Belfort
+11350,,Floralies,47.62565400,6.92372300,,,1,,0,Flo,Chèvremont
+11469,,Florimont,47.50996300,7.06913300,,,1,,0,Flori,Florimont
+11106,,Foch,47.63754400,6.85877500,,,1,,0,CoFoc,Belfort
+11623,,Fonderie,47.73355500,6.84100900,,,1,,0,FON,Rougegoutte
+11535,,Fontaine,47.66171500,7.00020200,,,1,,0,CtrFo,Fontaine
+11499,,Fontaine du Haut,47.48923100,6.97559600,,,1,,0,FoH,Lebetain
+11520,,Fonteneilles,47.48519000,6.92079000,,,1,,0,fonte,Beaucourt
+11445,,Fontenelle,47.62159300,6.95734300,,,1,,0,Prair,Fontenelle
+11397,,Fontenottes,47.72295400,6.88584400,,,1,,0,Fon,Grosmagny
+11549,,Forge Musée,47.72246000,6.92053000,,,1,,0,Musee,Étueffont
+11560,,Fougerets,47.73228300,6.83002800,,,1,,0,Fouge,Giromagny
+11512,,Fougères,47.58728800,6.84033000,,,1,,0,Fougè,Dorans
+11323,,Foussemagne,47.63473700,7.00233300,,,1,,0,Fouss,Foussemagne
+11319,,Foyer Rural,47.73621400,6.97213800,,,1,,0,Foy,Rougemont-le-Château
+11321,,Frais,47.64524000,6.98677800,,,1,,0,Boc,Frais
+11242,,Froideval l'Assise,47.60831600,6.84179000,,,1,,0,Ass,Andelnans
+11214,,Frézard,47.64619000,6.79001000,,,1,,0,FOR,Châlonvillars
+11503,,Fêche-l'Église,47.50505500,6.95214000,,,1,,0,Fec,Fêche-l'Église
+11348,,Galants,47.63086800,6.92459700,,,1,,0,Gal,Chèvremont
+10004,,Gardey,47.63589400,6.83459900,,,1,,0,GRD,Essert
+11114,,Gare,47.63384200,6.85394400,,,1,,0,Gar,Belfort
+11439,,Gare Petit-Croix,47.61060200,6.99523200,,,1,,0,GAr,Montreux-Château
+11105,,Gare TGV,47.58471100,6.89621200,,,1,,0,TGV,Meroux-Moval
+11561,,Gendarmerie,47.73841000,6.82938200,,,1,,0,Genda,Giromagny
+11762,,Gentiane,47.80103300,6.84870700,,,1,,0,GENT1,Lepuix
+11564,,Giromagny,47.74164800,6.82731900,,,1,,0,Giro,Giromagny
+11709,,Goscinny,47.66766100,6.84681000,,,1,,0,AKA,Valdoie
+11664,,Goutte des Canals,47.76703800,6.87070600,,,1,,0,AIG,Riervescemont
+11688,,Goutte Haine,47.59013500,6.99750000,,,1,,0,AIG01,Bretagne
+11656,,Goutte Oineux,47.69970100,6.81106000,,,1,,0,AHY,Lachapelle-sous-Chaux
+11395,,Gouttes,47.71965100,6.87953200,,,1,,0,Gou,Grosmagny
+10484,,Grand'Combe,47.64375700,6.83411200,,,1,,0,Gcom,Belfort
+11786,,Grande Piste 1,47.65997700,7.01509700,,,1,,0,A2G01,Fontaine
+11787,,Grande Piste 2,47.65755200,7.01249600,,,1,,0,A3G0,Fontaine
+11788,,Grande Piste 3,47.65384800,7.00867600,,,1,,0,A4G0,Fontaine
+11526,,Grande Rue,47.52735300,6.99911000,,,1,,0,GDR,Joncherey
+11409,,Grandes Planches,47.66934500,6.81626900,,,1,,0,Gdp,Évette-Salbert
+11449,,Grands Champs,47.61013600,7.00180700,,,1,,0,GdCha,Montreux-Château
+11457,,Grelat,47.50590800,6.99657000,,,1,,0,Gre,Delle
+11555,,Grillons,47.71219500,6.83601500,,,1,,0,ADM,Chaux
+11396,,Grosmagny,47.72139100,6.88240300,,,1,,0,Groma,Grosmagny
+11379,,Grosne,47.57517700,6.99895200,,,1,,0,Grosn,Grosne
+10143,,Grottes,47.61490600,6.85954700,,,1,,0,danj,Danjoutin
+10313,,Guidon,47.63673400,6.84083100,,,1,,0,Guido,Belfort
+10483,,Géhant,47.55603800,6.85248600,,,1,,0,Géha,Châtenois-les-Forges
+11599,,Haguenau,47.66098900,6.93199700,,,1,,0,Hague,Phaffans
+11452,,Halte Fluviale,47.60165600,7.00178400,,,1,,0,Flu,Montreux-Château
+11109,,Hatry,47.63760600,6.85015000,,,1,,0,Phare,Belfort
+11553,,Haut du Mont,47.68224400,6.83982300,,,1,,0,Etang,Sermamagny
+11344,,Haute Miotte,47.64521300,6.86638900,,,1,,0,HtM,Belfort
+10327,,Hauts de Belfort,47.64349000,6.88604400,,,1,,0,HDB,Belfort
+11745,,Helvétie,47.50847200,6.80623000,,,1,,0,Helv0,Montbéliard
+11538,,Henri Dorey,47.61378500,6.99854600,,,1,,0,HenDo,Montreux-Château
+11630,,Hôpital Nfc,47.57629600,6.87223300,,,1,,0,HpM,Trévenans
+11765,,Hôtel du Sommet,47.82092300,6.83730700,,,1,,0,Somm1,Lepuix
+11782,,Iris,47.56486700,6.86307500,,,1,,0,iri0,Trévenans
+10132,,IUT,47.64498600,6.84043300,,,1,,0,IUT,Belfort
+10142,,Jacquot,47.61815600,6.86561300,,,1,,1,Jacqu,Danjoutin
+11706,,Jaminet,47.71357500,7.01259600,,,1,,0,AJX01,Lachapelle-sous-Rougemont
+11491,,Japy,47.48504000,6.91955000,,,1,,0,Jap,Beaucourt
+10256,,Jean Jaurès,47.64427200,6.85613900,,,1,,0,Jaurè,Belfort
+11308,,Jeantet,47.71508500,7.02127000,,,1,,0,Jea,Lachapelle-sous-Rougemont
+11462,,Joncherey,47.52584100,7.00112100,,,1,,0,Jonch,Joncherey
+11455,,Jules Joachim,47.50769900,7.00433300,,,1,,0,5Fo,Delle
+11486,,Julg,47.49281500,6.92038700,,,1,,0,Jul,Beaucourt
+11476,,Jura,47.55899400,7.08293900,,,1,,0,Jura,Suarce
+11679,,Kléber,47.55423400,6.84297100,,,1,,0,AIX01,Châtenois-les-Forges
+11370,,L'Allan,47.53190100,6.92043500,,,1,,0,Lal,Méziré
+10315,,La Belle,47.62119000,6.83128800,,,1,,0,RuEss,Bavilliers
+11652,,La Brosse,47.70475100,6.81482500,,,1,,0,AHU,Lachapelle-sous-Chaux
+11598,,La Chaussée,47.65929500,6.91284600,,,1,,0,LaCha,Denney
+11305,,La Creuse,47.70316300,6.96068300,,,1,,0,LCr,Saint-Germain-le-Châtelet
+10314,,La Dame,47.62399000,6.82850200,,,1,,0,Bavil,Bavilliers
+10249,,La Douce,47.62758600,6.83587100,,,1,,0,Resi,Bavilliers
+11610,,La Feschotte,47.51961000,6.91456800,,,1,,0,LaFes,Dampierre-les-Bois
+11700,,La Forge,47.54544900,6.91713200,,,1,,0,AJR01,Méziré
+11217,,La Forêt,47.65112000,6.78879000,,,1,,0,LaF,Évette-Salbert
+11597,,La Lot,47.65945000,6.90739000,,,1,,0,LaLot,Denney
+11500,,La Louvière,47.47323900,6.96686700,,,1,,0,LLo,Saint-Dizier-l'Évêque
+11704,,La Noue,47.70071100,7.01504500,,,1,,0,AJV01,Angeot
+11751,,La Planche le Prêtre,47.75559300,6.85217800,,,1,,0,PRO02,Vescemont
+10310,,La Poste,47.63390700,6.82404900,,,1,,2,Poste,Essert
+11671,,La Praie,47.59326200,6.90957200,,,1,,0,AIP01,Meroux-Moval
+11371,,La Truche,47.52465100,6.91737600,,,1,,0,AHG,Méziré
+11427,,Lachapelle-Sous-Chaux,47.70550400,6.82221400,,,1,,0,LaSoC,Lachapelle-sous-Chaux
+11307,,Lachapelle-Sous-Rougemont,47.71054900,7.01289900,,,1,,0,Lacha,Lachapelle-sous-Rougemont
+11298,,Lacollonge,47.66295600,6.96059800,,,1,,0,Lac,Lacollonge
+11338,,Lagrange,47.68101600,6.97782100,,,1,,0,Lag,Lagrange
+11420,,Lallemand,47.68373200,6.81409900,,,1,,0,LAl,Sermamagny
+11337,,Larivière,47.67288700,6.99817000,,,1,,0,Lariv,Larivière
+10292,,Laurencie,47.63889400,6.87449300,,,1,,0,Laur,Belfort
+10289,,Laurent Thierry,47.64683900,6.83479800,,,1,,0,LaThi,Belfort
+11672,,Lavoir,47.59455000,6.90142100,,,1,,0,AIQ01,Meroux-Moval
+11495,,Le Bannet,47.47031500,6.92066600,,,1,,0,LBa,Montbouton
+11816,,Le Moindry,47.50677100,7.07523200,,,1,,0,LeMo0,Courcelles
+10276,,Le Nôtre,47.63105000,6.84783800,,,1,,0,LeNôt,Belfort
+11658,,Le Rhôme,47.70363300,6.81962300,,,1,,0,AIA,Lachapelle-sous-Chaux
+11498,,Lebetain,47.48695300,6.97715700,,,1,,0,Lebet,Lebetain
+11531,,Leclerc,47.54811400,6.94198700,,,1,,0,Lec,Morvillars
+11595,,Lepuix,47.75807700,6.81929000,,,1,,0,Lepui,Lepuix
+11474,,Lepuix-Neuf,47.53844500,7.10090300,,,1,,0,Lpx,Lepuix-Neuf
+11654,,Les Boulets,47.70044000,6.80375800,,,1,,0,AHW,Lachapelle-sous-Chaux
+11766,,Les Démineurs,47.82082400,6.83413100,,,1,,0,Demi1,Saint-Maurice-sur-Moselle
+11624,,Les Epreys,47.72773800,6.84319000,,,1,,0,Epr,Rougegoutte
+11340,,Les Errues,47.68675900,6.95254300,,,1,,0,Err,Menoncourt
+10508,,Les Forges,47.64938000,6.86268300,,,1,,0,Forge,Belfort
+11653,,Les Malpateys,47.70175100,6.80706000,,,1,,0,AHV,Lachapelle-sous-Chaux
+10624,,Les Perches,47.63026200,6.86530100,,,1,,0,Perch,Belfort
+11731,,Les Rochers,47.50160900,6.91468900,,,1,,0,AKQ0,Dampierre-les-Bois
+11316,,Leval,47.72869100,6.98249000,,,1,,0,Leval,Leval
+10504,,Liberté Follereau,47.63658700,6.84512500,,,1,,0,LiFol,Belfort
+10134,,Liberté Madrid,47.63606200,6.84556700,,,1,,0,LiMad,Belfort
+10962,,Lieutenant J. Martin,47.64547800,6.87513400,,,1,,0,CScha,Belfort
+11631,,Lino Ventura,47.57194800,6.99975700,,,1,,0,LiV,Grosne
+11354,,Longerois,47.60717700,6.91312700,,,1,,0,Lon,Vézelois
+11699,,Lot de la Baie,47.56339800,6.91320700,,,1,,0,AJQ01,Bourogne
+11453,,Lotissement Pegoud,47.61354200,6.98071900,,,1,,0,LtP,Petit-Croix
+11539,,Lotissement Viot,47.66421100,7.00179700,,,1,,0,LoVio,Fontaine
+10153,,Louis Thomas,47.56600100,6.91228500,,,1,,0,LoTho,Bourogne
+11713,,Lycée Follereau,47.63683700,6.84565700,,,1,,0,AKD01,Belfort
+10110,,Lycée Quelet,47.67776300,6.84065300,,,1,,0,LEPag,Valdoie
+11295,,Lys,47.64545700,6.92712000,,,1,,0,Lys,Bessoncourt
+10303,,Madagascar,47.65231400,6.84509200,,,1,,0,Mada,Belfort
+11301,,Madeleine,47.67928000,6.96297600,,,1,,0,AHK,Bethonvilliers
+11529,,Magny,47.53983900,6.96561800,,,1,,0,Mag,Grandvillars
+11774,,Maison de Santé,47.64560200,6.84675300,,,1,,0,MaS,Belfort
+11750,,Maison Forestière,47.75760600,6.85579000,,,1,,0,PRO01,Vescemont
+11418,,Malsaucy,47.68131800,6.80494500,,,1,,0,Malsa,Évette-Salbert
+10329,,Marcel Braun,47.61955100,6.84236200,,,1,,0,MBrau,Bavilliers
+10622,,Marchegay,47.66133300,6.85361800,,,1,,0,Mcgay,Valdoie
+10262,,Marché Vosges,47.65217300,6.85053700,,,1,,0,MaVos,Belfort
+10273,,Marseille,47.64699500,6.86233900,,,1,,0,MArse,Belfort
+10269,,Martinet,47.65947400,6.85873700,,,1,,0,Marti,Offemont
+11622,,Mendès France,47.63873400,6.87872300,,,1,,0,Mdf,Belfort
+11588,,Menoncourt,47.67003500,6.94552100,,,1,,0,Menon,Menoncourt
+11659,,Menuiserie,47.74863300,6.84200200,,,1,,0,AIB,Vescemont
+10121,,Mermoz,47.68309800,6.85550500,,,1,,0,Mermo,Éloie
+11102,,Mieg,47.64195800,6.84633000,,,1,,0,Mieg,Belfort
+11528,,Migeon,47.53853300,6.97169900,,,1,,0,Mig,Grandvillars
+11594,,Mines,47.75319100,6.81893500,,,1,,0,Mines,Lepuix
+11170,,Miotte,47.64132800,6.86622600,,,1,,0,Mio,Belfort
+10277,,Molière,47.62860400,6.85138500,,,1,,0,Moliè,Belfort
+11429,,Mont Coron,47.73259400,6.78240400,,,1,,0,MtC,Auxelles-Bas
+11647,,Mont Jean,47.76370800,6.82245800,,,1,,0,AHP,Lepuix
+11494,,Montbouton,47.47320800,6.91830700,,,1,,0,MON,Montbouton
+11451,,Montreux-Château,47.60653700,7.00433100,,,1,,0,MCx,Montreux-Château
+11367,,Morvillars,47.54688000,6.93378100,,,1,,0,Morv,Morvillars
+10476,,Morvillars Gare,47.54927400,6.93550800,,,1,,0,MorvG,Morvillars
+10299,,Moulin,47.66482800,6.88191900,,,1,,0,Mouli,Offemont
+10318,,Mozart,47.62543100,6.84321200,,,1,,0,Mozar,Bavilliers
+10509,,Mulhouse,47.64410600,6.85057700,,,1,,0,MUlh,Belfort
+10139,,Multiplexe,47.62881200,6.86111500,,,1,,0,Multi,Belfort
+11616,,Musée Agricole,47.59666500,6.84922500,,,1,,0,MusAg,Botans
+11375,,Musée de l'Artisanat,47.57674100,6.97222400,,,1,,0,MuB,Brebotte
+10127,,Méchelle,47.65869200,6.83680700,,,1,,0,Meche,Cravanche
+11456,,Médiathèque,47.50573500,7.00126300,,,1,,0,Med,Delle
+11485,,Mésange,47.49221000,6.91716000,,,1,,0,Més,Beaucourt
+11369,,Méziré,47.53678700,6.92271400,,,1,,0,Mez,Méziré
+10114,,Nallet,47.67149600,6.84297400,,,1,,0,SupU,Valdoie
+11581,,Nayatte,47.66778700,6.89288700,,,1,,0,Naya,Vétrigne
+11720,,Normandie,47.51193800,7.00517900,,,1,,0,AKK01,Delle
+11441,,Novillard,47.60617600,6.97142000,,,1,,0,Nov,Novillard
+11543,,Noyé,47.69890000,6.93843500,,,1,,0,Noye,Anjoutey
+10147,,Oeufs Frais,47.58893300,6.85929500,,,1,,0,Oeuf,Sevenans
+11674,,Orchidées,47.60428300,6.87435500,,,1,,0,AIS01,Andelnans
+11504,,Paix,47.50672800,6.99267500,,,1,,0,pax,Delle
+11336,,Paon Bleu,47.67611400,6.99786100,,,1,,0,PaB,Larivière
+10267,,Paquis,47.66427000,6.84710700,,,1,,0,Paqui,Valdoie
+10294,,Parant,47.63586300,6.86931700,,,1,,0,Parra,Belfort
+10498,,Parmentier,47.65317900,6.85248300,,,1,,0,PAR,Belfort
+11467,,Paslattes,47.51962800,7.04049800,,,1,,0,Pas,Faverois
+11708,,Pasteur,47.65662300,6.83496500,,,1,,0,AJZ01,Cravanche
+10497,,Paul Bert,47.65442500,6.84720800,,,1,,0,PBE,Belfort
+11297,,Pensées,47.64644200,6.93456000,,,1,,0,Pen,Bessoncourt
+11422,,Petit Pont,47.68635800,6.82572100,,,1,,0,Ppn,Sermamagny
+11448,,Petit-Croix,47.61365500,6.97363100,,,1,,0,PtC,Petit-Croix
+11312,,Petitefontaine,47.72144900,7.00784200,,,1,,0,PtF,Petitefontaine
+11398,,Petitmagny,47.72191100,6.89800800,,,1,,0,PtM,Petitmagny
+11600,,Phaffans,47.66014800,6.93574100,,,1,,0,Phaff,Phaffans
+11767,,Philippe Grille,47.64191400,6.87120700,,,1,,0,phi01,Belfort
+11342,,Picard,47.64396900,6.86894100,,,1,,0,AHE,Belfort
+10330,,Pierre Engel,47.61647900,6.84064800,,,1,,0,Psy,Bavilliers
+10489,,Pins,47.63784500,6.82947000,,,1,,0,RDE,Essert
+11524,,Piscine,47.51834800,7.00119300,,,1,,0,Pis,Delle
+11546,,Pistolet,47.70956000,6.92555500,,,1,,0,Pisto,Anjoutey
+11693,,Place,47.53915300,6.96551100,,,1,,0,AJL01,Grandvillars
+11634,,Planchettes,47.68137000,6.80161700,,,1,,0,Pla,Évette-Salbert
+10496,,Poincaré,47.62262500,6.84986300,,,1,,0,ELU,Belfort
+11417,,Pointée,47.67675200,6.79265400,,,1,,0,poi,Évette-Salbert
+11589,,Pommerot,47.67025700,6.94254300,,,1,,0,Pomme,Menoncourt
+11317,,Pont,47.72953900,6.97843000,,,1,,0,Pnt,Leval
+10268,,Pont Blanc,47.66318900,6.85060300,,,1,,0,PoBla,Valdoie
+11183,,Pont Canal,47.62287800,6.83882200,,,1,,0,PnC,Bavilliers
+11477,,Pont Suarcine,47.56323700,7.08233200,,,1,,0,PnSua,Suarce
+11729,,Popins,47.49438300,6.91377100,,,1,,0,AKO0,Beaucourt
+10146,,Port de Botans,47.59844300,6.85958000,,,1,,0,PtBot,Andelnans
+11293,,Porte de Belfort,47.64095200,6.91724100,,,1,,0,PoBel,Bessoncourt
+11541,,Porte du Vallon,47.65027600,6.88956600,,,1,,0,PrtVa,Denney
+11423,,Pouchotte,47.68791600,6.83154300,,,1,,0,Pch,Sermamagny
+11353,,Praille,47.60872000,6.91349900,,,1,,0,Pra,Vézelois
+11651,,Prairie,47.70568700,6.81834500,,,1,,0,AHT,Lachapelle-sous-Chaux
+11609,,Primevères,47.64262200,6.93324400,,,1,,0,Prime,Bessoncourt
+11730,,Pré Sergent,47.49890800,6.91295600,,,1,,0,AKP0,Dampierre-les-Bois
+10123,,Prés d'Aumont,47.67848800,6.84964000,,,1,,0,Pdm,Valdoie
+11550,,Prés Pignot,47.71951000,6.92795500,,,1,,0,RuRou,Étueffont
+11291,,Pérouse,47.63671500,6.89309500,,,1,,0,Perou,Pérouse
+11137,,Rabin,47.64172800,6.85617600,,,1,,1,Rab,Belfort
+11447,,Ragie Rondat,47.61545700,6.96894700,,,1,,0,Ragie,Petit-Croix
+11387,,Rechotte,47.59198800,6.95616200,,,1,,0,Rct,Autrechêne
+11376,,Recouvrance,47.57409500,6.98138800,,,1,,0,Rcv,Recouvrance
+10279,,Renan,47.62646100,6.85177300,,,1,,0,Renan,Belfort
+11416,,Renaud,47.67451400,6.79514100,,,1,,0,Rnd,Évette-Salbert
+11327,,Reppe,47.66070200,7.02558100,,,1,,0,ReE,Reppe
+11710,,Restaurant,47.47118700,6.96302200,,,1,,0,AKA01,Saint-Dizier-l'Évêque
+11401,,Reydel,47.73035400,6.84724100,,,1,,0,Rey,Rougegoutte
+11665,,Riervescemont,47.76499700,6.88067700,,,1,,0,AII,Riervescemont
+11603,,Romagny,47.71744500,6.96827500,,,1,,0,Roma,Romagny-sous-Rougemont
+10301,,Romaine,47.66114700,6.87097300,,,1,,0,Romai,Offemont
+11701,,Rondages,47.53804300,6.92114200,,,1,,0,AJS,Méziré
+11542,,Roppe,47.66923800,6.91858400,,,1,,0,Ropp,Roppe
+11563,,Rosemont,47.74275200,6.83702200,,,1,,0,Rose,Giromagny
+10532,,Rosemontoise,47.68629400,6.86162700,,,1,,0,Rosem,Éloie
+10261,,Roseraie,47.65053700,6.85204200,,,1,,0,ROser,Belfort
+11585,,Rouches,47.67078500,6.92398600,,,1,,0,Rouch,Roppe
+11428,,Route d'Auxelles,47.70767100,6.82145800,,,1,,0,RtAux,Lachapelle-sous-Chaux
+11394,,Route d'Eloie,47.71715100,6.87812200,,,1,,0,RdE,Grosmagny
+11551,,Route d'Etueffont,47.73536800,6.96411300,,,1,,0,RtEtu,Rougemont-le-Château
+11424,,Route d'Evette,47.68935200,6.83568100,,,1,,0,RTE,Sermamagny
+11238,,Route d'Urcerey,47.61637500,6.82945100,,,1,,0,RUr,Bavilliers
+11488,,Route de Badevel,47.49068500,6.92633000,,,1,,0,Bad,Beaucourt
+11303,,Route de Belfort,47.69518000,6.95901000,,,1,,0,RBe,Saint-Germain-le-Châtelet
+10593,,Route de Bermont,47.58413500,6.85789500,,,1,,0,Bermo,Bermont
+11484,,Route de Bâle,47.51847000,7.08503600,,,1,,0,RtBâl,Courtelevant
+11352,,Route de Chèvremont,47.61005700,6.91473200,,,1,,0,RtC,Vézelois
+11470,,Route de Courtelevant,47.51092800,7.10465300,,,1,,0,Rco,Réchésy
+11723,,Route de Florimont,47.50984800,7.00836400,,,1,,0,AKN0,Delle
+11380,,Route de Grosne,47.56011000,7.00910000,,,1,,0,RGr,Boron
+11716,,Route de la Forêt,47.66196900,6.78330700,,,1,,0,AKG01,Évette-Salbert
+11677,,Route de Montbéliard,47.55169600,6.85159300,,,1,,0,AIV01,Châtenois-les-Forges
+11389,,Route de Novillard,47.60603700,6.92353900,,,1,,0,Rtn,Vézelois
+11472,,Route de Pfetterhouse,47.50869600,7.11716800,,,1,,0,Rpf,Réchésy
+11596,,Route de Phaffans,47.65627100,6.90157100,,,1,,0,RtPha,Denney
+11604,,Route de Romagny,47.72974600,6.96773200,,,1,,0,RtRom,Rougemont-le-Château
+11586,,Route de Roppe,47.67023800,6.92992500,,,1,,0,RtRop,Eguenigue
+11663,,Route de Rougegoutte,47.74389800,6.84736400,,,1,,0,AIF,Vescemont
+11606,,Route de Rougemont,47.72339300,6.96991700,,,1,,0,RTRou,Leval
+10523,,Route de Sermamagny,47.68887600,6.86970400,,,1,,0,RTSer,Éloie
+11332,,Route de Vauthiermont,47.69452200,7.01331500,,,1,,0,AHI,Angeot
+11584,,Route de Vétrigne,47.66702000,6.91341400,,,1,,0,RtVet,Roppe
+11620,,Route du Ballon,47.74415000,6.82488000,,,1,,0,RtBal,Giromagny
+10627,,Rte de Vourvenans,47.56396300,6.85621200,,,1,,0,RtVou,Trévenans
+10265,,Rubans,47.66210200,6.84323100,,,1,,0,Ruban,Valdoie
+11697,,Rue d'Autrechêne,47.57491900,6.93944500,,,1,,0,AJO01,Charmois
+11515,,Rue d'Héricourt,47.59342000,6.81238000,,,1,,0,RtHe,Banvillars
+11390,,Rue de Brebotte,47.60308000,6.92879400,,,1,,0,RBr,Vézelois
+11243,,Rue de Buc,47.61956300,6.83188200,,,1,,0,Egl,Bavilliers
+11673,,Rue de Charmois,47.59510400,6.89927800,,,1,,0,AIR01,Meroux-Moval
+11789,,Rue de Foussemagne,47.65169500,7.00545200,,,1,,0,R2F0,Fontaine
+11399,,Rue de Giromagny,47.72038700,6.89833800,,,1,,0,RuGir,Petitmagny
+11356,,Rue de l'Ouvrage,47.59529700,6.89562900,,,1,,0,RuO,Meroux-Moval
+11660,,Rue de l'École,47.75387900,6.84829700,,,1,,0,AIC,Vescemont
+11690,,Rue de la Combatte,47.54270900,6.96732900,,,1,,0,AJI01,Grandvillars
+11358,,Rue de la Liberté,47.58761700,6.88864900,,,1,,0,RuLib,Meroux-Moval
+11753,,Rue de la Libération,47.50045800,6.98907800,,,1,,0,Libé,Delle
+11648,,Rue de la Savoureuse,47.77318800,6.82912100,,,1,,0,AHQ,Lepuix
+11675,,Rue de Meroux,47.60259400,6.87020900,,,1,,0,AIT01,Andelnans
+11785,,Rue de Reppe,47.66327600,7.01474100,,,1,,0,R2R01,Fontaine
+11426,,Rue de Sermamagny,47.70087800,6.82563400,,,1,,0,RuSer,Lachapelle-sous-Chaux
+11408,,Rue de Valdoie,47.66900600,6.81959700,,,1,,0,RuVal,Évette-Salbert
+11492,,Rue de Vandoncourt,47.48217700,6.91636200,,,1,,0,Rva,Beaucourt
+11382,,Rue de Vellescot,47.56326000,7.01186500,,,1,,0,RdV,Boron
+11355,,Rue de Vézelois,47.59752900,6.89916300,,,1,,0,RTV,Meroux-Moval
+10966,,Rue des Alisiers,47.58802600,6.88646800,,,1,,0,RMero,Meroux-Moval
+11662,,Rue des Carrières,47.74936000,6.84967000,,,1,,0,AID,Vescemont
+11657,,Rue des Creuses,47.69975200,6.81470100,,,1,,0,AHZ,Lachapelle-sous-Chaux
+10150,,Rue des Soies,47.58689200,6.88166100,,,1,,0,Mmova,Meroux-Moval
+11357,,Rue du 15 Juillet,47.59213800,6.89153100,,,1,,0,R15,Meroux-Moval
+11683,,Rue du Canal,47.56094600,6.86491500,,,1,,0,AJB01,Trévenans
+11714,,Rue du Moulin,47.60786100,6.97033700,,,1,,0,AKE01,Novillard
+11374,,Rue du Stade,47.56460600,6.95233100,,,1,,0,RdS,Froidefontaine
+11633,,Rue du Yers,47.68249100,6.79457500,,,1,,0,Yer,Évette-Salbert
+11482,,Ruisseau,47.59240700,7.04621900,,,1,,0,rui,Chavannes-les-Grands
+11649,,Ruisseau de la Goutte,47.77662300,6.83457800,,,1,,0,AHR01,Lepuix
+11471,,Réchésy,47.50826300,7.11062700,,,1,,0,Réché,Réchésy
+10257,,République,47.63889000,6.86120700,,,1,,0,Repub,Belfort
+11287,,République,47.63974800,6.86125500,,,1,,0,REp,Belfort
+11101,,Saget,47.64111800,6.84115600,,,1,,0,SAGET,Belfort
+11405,,Saint Joseph,47.74372900,6.83258200,,,1,,0,StJ,Giromagny
+11732,,Saint Laurent,47.50477000,6.91327500,,,1,,0,APR0,Dampierre-les-Bois
+11501,,Saint-Dizier,47.47093600,6.96207500,,,1,,0,StDiz,Saint-Dizier-l'Évêque
+11304,,Saint-Germain-le-Châtelet,47.69892600,6.95838000,,,1,,0,StG,Saint-Germain-le-Châtelet
+11817,,Saints Prés,47.61324800,6.90611000,,,1,,0,S1pr,Vézelois
+10264,,Salbert,47.65837800,6.84462700,,,1,,0,Salbe,Belfort
+11691,,Salle des Fêtes,47.53899500,6.97466100,,,1,,0,AJJ01,Grandvillars
+11686,,Sapins,47.61785900,6.96633700,,,1,,0,AJE01,Petit-Croix
+11556,,Sappois,47.71559500,6.83505000,,,1,,0,Sapoi,Chaux
+10527,,Savoureuse,47.66588500,6.84316000,,,1,,0,Savou,Valdoie
+11768,,Schmittlein,47.64387100,6.87377000,,,1,,0,Sch01,Belfort
+10251,,Schuman,47.63330800,6.83843900,,,1,,0,Schum,Belfort
+10998,,Schwob,47.63423500,6.86124900,,,1,,0,Schw,Belfort
+11719,,Scierie,47.61490000,6.78142300,,,1,,0,AKJ01,Buc
+11436,,Secs Prés,47.62280500,6.99813000,,,1,,0,SCp,Cunelières
+10295,,Sellier,47.63267700,6.86835800,,,1,,0,Selli,Belfort
+11425,,Sermamagny,47.69258400,6.83550200,,,1,,0,Serm,Sermamagny
+11164,,Sernam,47.63096100,6.85553100,,,1,,0,Ser,Belfort
+11628,,Serrurerie,47.74174800,6.77709300,,,1,,0,AHB,Auxelles-Haut
+10250,,Signoret,47.62953500,6.84055600,,,1,,0,Sign,Belfort
+11695,,Sorbier,47.67127000,6.99052600,,,1,,0,AJG01,Larivière
+11241,,St Antonin,47.61348300,6.83956900,,,1,,0,StA,Bavilliers
+11402,,St Georges,47.73370600,6.84993300,,,1,,0,SGe,Rougegoutte
+11322,,St Martin,47.63596100,6.99598400,,,1,,0,StM,Foussemagne
+11525,,Stade,47.51446100,7.00100500,,,1,,0,Sta,Delle
+11014,,Ste Thérèse,47.64076000,6.83810200,,,1,,0,Sther,Belfort
+10259,,Strasbourg,47.64605700,6.85525200,,,1,,0,Stras,Belfort
+11161,,Strolz,47.63932500,6.85594200,,,1,,0,Slz,Belfort
+11478,,Suarce,47.56542200,7.07836100,,,1,,0,Suarc,Suarce
+11702,,Sur la Ville,47.70548400,6.97724200,,,1,,0,AJT,Felon
+10148,,Sévenans UTBM,47.58586200,6.86637600,,,1,,0,Seven,Sevenans
+11635,,Taillis,47.68124500,6.78893300,,,1,,0,Tai,Évette-Salbert
+10133,,Techn'Hom 1/UTBM,47.64138000,6.84170300,,,1,,0,Te1,Belfort
+10131,,Techn'Hom 2,47.64762900,6.83925000,,,1,,0,TE2,Belfort
+10130,,Techn'Hom 3,47.65179500,6.83718000,,,1,,0,Te3,Belfort
+10287,,Techn'Hom Cravanche,47.65291600,6.83241000,,,1,,0,Crav,Cravanche
+10488,,Terrasses,47.63832000,6.83293500,,,1,,0,TER,Essert
+11468,,Terrières,47.51411200,7.06836100,,,1,,0,ter,Florimont
+11413,,Thiamont,47.66665100,6.78902900,,,1,,0,Thi,Évette-Salbert
+11460,,Thiancourt,47.52279800,6.98756100,,,1,,0,Thian,Thiancourt
+11619,,Thiers,47.74322400,6.82101100,,,1,,0,Thier,Giromagny
+11534,,Tilleul,47.65727400,6.99736300,,,1,,0,Till,Fontaine
+11587,,Tramway,47.66919600,6.93674300,,,1,,0,tram,Eguenigue
+11351,,Trémont,47.62147100,6.92209500,,,1,,0,Tremo,Chèvremont
+10160,,Trévenans,47.56871300,6.86187200,,,1,,0,Mtrev,Trévenans
+11696,,Tuilerie,47.55799800,6.94053800,,,1,,0,AJN01,Froidefontaine
+10125,,Turenne,47.66833200,6.84185200,,,1,,0,Turen,Valdoie
+11288,,Universités,47.64045100,6.86447900,,,1,,0,Uni,Belfort
+11517,,Urcerey,47.60803000,6.80904900,,,1,,0,Urce,Urcerey
+10507,,Valdoie Blumberg,47.66476500,6.84332800,,,1,,0,VaB,Valdoie
+10126,,Valdoie Mairie,47.66518000,6.84169300,,,1,,0,VaMai,Valdoie
+10140,,Varonne,47.62290000,6.86292200,,,1,,1,Varon,Danjoutin
+11330,,Vauthiermont,47.68473100,7.03203600,,,1,,0,Vauth,Vauthiermont
+11383,,Vellescot,47.57258600,7.01435200,,,1,,0,Velle,Vellescot
+11407,,Verboté,47.66916400,6.82372400,,,1,,0,VEr,Évette-Salbert
+11567,,Verdots,47.49083100,6.91899000,,,1,,0,BeVer,Beaucourt
+10525,,Verdoyeux,47.69234900,6.87653700,,,1,,0,Verdo,Éloie
+11698,,Vergers,47.57170100,6.94142700,,,1,,0,AJP01,Charmois
+11465,,Vernattes,47.52263600,7.02797300,,,1,,0,Vnt,Faverois
+11685,,Vernois,47.63290100,7.00883400,,,1,,0,AJD01,Foussemagne
+11404,,Vescemont,47.74328200,6.84553700,,,1,,0,Ves,Vescemont
+11326,,Vie de Ban,47.65786400,7.02482700,,,1,,0,VdB,Reppe
+11711,,Vieux Lavoir,47.67072700,6.94797100,,,1,,0,AKB,Menoncourt
+11497,,Villars le Sec,47.45639900,6.99054400,,,1,,0,VlS,Villars-le-Sec
+11527,,Voivre,47.53151400,6.99665300,,,1,,0,Voi,Joncherey
+11378,,Vosges,47.57602800,6.99516300,,,1,,0,VOS,Grosne
+11421,,Véronne,47.68523600,6.81967800,,,1,,0,VER,Sermamagny
+11582,,Vétrigne,47.66984600,6.89866500,,,1,,0,Vetri,Vétrigne
+11388,,Vézelois,47.60705800,6.91831500,,,1,,0,Vez,Vézelois
+11530,,ZA Pellerie,47.54205700,6.95926900,,,1,,1,ZAP,Grandvillars
+11509,,Zac des Saules,47.59706500,6.85641500,,,1,,0,Zau,Botans
+11294,,ZAC Est,47.64247500,6.92017900,,,1,,0,ZaE,Bessoncourt
+11292,,ZAC Ouest,47.64233600,6.91432600,,,1,,0,ZaO,Bessoncourt
+11239,,ZI de Baviliers,47.61154900,6.82811300,,,1,,0,ZiB,Bavilliers
+11365,,Zi de Bourogne,47.55052000,6.92127000,,,1,,0,AHC,Bourogne
+11339,,Zone Industrielle,47.68219600,6.97435300,,,1,,0,ZIn,Lagrange
+11373,,Écluse,47.56587700,6.94416100,,,1,,0,Ecl,Froidefontaine
+11411,,École des Sources,47.67342000,6.80726900,,,1,,0,EcoSo,Évette-Salbert
+11689,,Église de Grosne,47.57493300,6.99975000,,,1,,0,AIH01,Grosne
+20293,,1er RA,47.57874000,6.89818100,,,0,10152,1,Ail01,Bourogne
+20294,,1er RA,47.57863100,6.89816100,,,0,10152,1,Ail02,Bourogne
+20505,,1re Armée,47.65482100,6.84770000,,,0,10263,1,00101,Belfort
+20506,,1re Armée,47.65519500,6.84731200,,,0,10263,1,00102,Belfort
+22806,,1ère Dfl,47.74835900,6.82020600,,,0,11565,2,ADW01,Giromagny
+22807,,1ère Dfl,47.74852000,6.82099000,,,0,11565,2,ADW02,Giromagny
+21143,,4 As,47.63805400,6.85520800,,,0,10594,1,4as01,Belfort
+21828,,4 As,47.63809000,6.85505000,,,0,10594,1,4as02,Belfort
+22715,,5ème Db,47.61649100,6.79044100,,,0,11518,2,5DB01,Buc
+22716,,5ème Db,47.61650100,6.79042600,,,0,11518,2,5DB02,Buc
+22171,,Acacias,47.60208700,6.81869500,,,0,11219,1,Arg01,Argiésans
+23070,,Ackermann,47.51194600,7.01193900,,,0,11722,2,AKM01,Delle
+23073,,Ackermann,47.51189400,7.01208900,,,0,11722,2,AKM02,Delle
+23115,,Acropole,47.50973500,6.80188300,,,0,11744,1,ACr01,Montbéliard
+23117,,Acropole,47.50977800,6.80207000,,,0,11744,1,ACr02,Montbéliard
+22817,,Adour,47.49279400,6.97771600,,,0,11571,2,AED01,Lebetain
+22818,,Adour,47.49290700,6.97790600,,,0,11571,2,AED02,Lebetain
+22722,,Allaine,47.51022600,7.00156600,,,0,11523,1,ACN01,Delle
+22723,,Allaine,47.51037500,7.00162100,,,0,11523,1,ACN02,Delle
+22800,,Alsace,47.73754800,6.83447400,,,0,11562,1,ADT01,Giromagny
+22801,,Alsace,47.73741700,6.83479200,,,0,11562,1,ADT02,Giromagny
+20550,,Alstom Etang,47.65002000,6.83325100,,,0,10288,1,ALs01,Cravanche
+20551,,Alstom Etang,47.65004000,6.83363600,,,0,10288,1,ALs02,Cravanche
+20566,,Altkirch,47.63163000,6.86823000,,,0,10296,1,Alt01,Belfort
+20567,,Altkirch,47.63127500,6.86775600,,,0,10296,1,Alt02,Belfort
+22338,,Ancienne Douane,47.63542700,7.00544400,,,0,11324,2,AAI01,Foussemagne
+22339,,Ancienne Douane,47.63569500,7.00539400,,,0,11324,2,AAI02,Foussemagne
+22877,,Ancienne Gare,47.73297600,6.96883700,,,0,11605,1,AFN01,Rougemont-le-Château
+22878,,Ancienne Gare,47.73285500,6.96892400,,,0,11605,1,AFN02,Rougemont-le-Château
+22951,,Ancienne École,47.78289000,6.83409600,,,0,11650,2,AHS01,Lepuix
+22989,,Andelnans,47.60172000,6.86578800,,,0,11676,2,AIU01,Andelnans
+22990,,Andelnans,47.60168900,6.86592600,,,0,11676,2,AIU02,Andelnans
+20279,,Andelnans Prés,47.60690700,6.85903300,,,0,10145,1,And01,Andelnans
+20280,,Andelnans Prés,47.60663200,6.85889100,,,0,10145,1,And02,Andelnans
+22358,,Angeot,47.69626300,7.01429500,,,0,11334,2,AAK01,Angeot
+23040,,Angeot,47.69619100,7.01433800,,,0,11334,2,AAK02,Angeot
+23088,,Angoulotte,47.51334000,6.91339300,,,0,11736,1,AKV01,Dampierre-les-Bois
+23089,,Angoulotte,47.51268800,6.91331500,,,0,11736,1,AKV02,Dampierre-les-Bois
+22764,,Anjoutey,47.70050000,6.93307000,,,0,11544,1,ADA01,Anjoutey
+22765,,Anjoutey,47.70109000,6.93271000,,,0,11544,1,ADA02,Anjoutey
+22823,,Ap90,47.55628700,6.93058400,,,0,11573,2,AEG01,Morvillars
+22904,,Arcades,47.48522000,6.92580000,,,0,11621,1,AGC02,Beaucourt
+22201,,Argiésans,47.60360300,6.82215600,,,0,11240,1,ArC01,Argiésans
+22202,,Argiésans,47.60409100,6.82304000,,,0,11240,1,ArC02,Argiésans
+22372,,As de Trèfle,47.64159500,6.86777300,,,0,11341,1,As02,Belfort
+22826,,Atria,47.64136800,6.86265000,,,0,11576,2,AEK01,Belfort
+22827,,Atria,47.64139700,6.86277500,,,0,11576,2,AEK02,Belfort
+20229,,Aubépines,47.68459000,6.85831100,,,0,10120,1,aub01,Éloie
+20230,,Aubépines,47.68453000,6.85829600,,,0,10120,1,aub02,Éloie
+22471,,Autrechêne,47.59547900,6.96050500,,,0,11392,2,AAX01,Autrechêne
+22472,,Autrechêne,47.59547200,6.96056400,,,0,11392,1,AAX02,Autrechêne
+22963,,Auxelles-Bas,47.73472400,6.78136700,,,0,11430,2,aux01,Auxelles-Bas
+22964,,Auxelles-Bas,47.73469200,6.78140600,,,0,11430,2,aux02,Auxelles-Bas
+22550,,Auxelles-Haut,47.74289000,6.77158000,,,0,11433,1,AxH01,Auxelles-Haut
+22750,,Aéroparc,47.66078000,7.00892000,,,0,11536,1,ACT02,Fontaine
+22718,,Badevel,47.50366500,6.93861200,,,0,11521,2,BAd01,Badevel
+22719,,Badevel,47.50352900,6.93889300,,,0,11521,2,BAd02,Badevel
+20002,,Ballinamuck,47.64002300,6.80014300,,,0,10002,1,BOI01,Essert
+23113,,Ballinamuck,47.63979000,6.80040700,,,0,10002,1,BOI02,Essert
+20571,,Ballon,47.66309700,6.87577800,,,0,10300,1,BAl01,Offemont
+20572,,Ballon,47.66313100,6.87607400,,,0,10300,1,BAl02,Offemont
+23104,,Bambois,47.53024900,7.00632100,,,0,11741,2,bam01,Joncherey
+23105,,Bambois,47.53017000,7.00617400,,,0,11741,2,bam02,Joncherey
+22707,,Banvillars,47.59199200,6.81547700,,,0,11514,2,ACI01,Banvillars
+22708,,Banvillars,47.59198800,6.81541500,,,0,11514,2,ACI02,Banvillars
+22504,,Barbier,47.66936800,6.81177300,,,0,11410,2,ABC01,Évette-Salbert
+22505,,Barbier,47.66950000,6.81213900,,,0,11410,2,ABC02,Évette-Salbert
+23140,,Barcot,47.65680800,6.84572400,,,0,11760,2,BAR01,Belfort
+23141,,Barcot,47.65672400,6.84562900,,,0,11760,2,BAR02,Belfort
+23087,,Barrière Blanche,47.51018700,6.91323500,,,0,11735,1,AKU01,Dampierre-les-Bois
+23090,,Barrière Blanche,47.50961100,6.91300700,,,0,11735,1,AKU02,Dampierre-les-Bois
+22170,,Bas du Village,47.64834000,6.79057000,,,0,11218,2,BdV01,Évette-Salbert
+21212,,Bascule,47.57166500,6.86177800,,,0,10628,1,Bas01,Trévenans
+21213,,Bascule,47.57157700,6.86165800,,,0,10628,1,Bas02,Trévenans
+23122,,Batterie,47.53132200,6.96141700,,,0,11749,2,BAT01,Grandvillars
+20601,,Bavilliers,47.62058600,6.83396300,,,0,10316,1,MaB01,Bavilliers
+20602,,Bavilliers,47.62090700,6.83500100,,,0,10316,1,MaB02,Bavilliers
+22327,,Bavière,47.73632400,6.96892400,,,0,11318,1,AA01,Rougemont-le-Château
+22811,,Beaucourt,47.48603000,6.92445000,,,0,11568,1,AEA01,Beaucourt
+22812,,Beaucourt,47.48603000,6.92445000,,,0,11568,1,AEA02,Beaucourt
+22794,,Bellevue,47.72575000,6.83164000,,,0,11559,1,ADQ01,Chaux
+22795,,Bellevue,47.72575000,6.83177000,,,0,11559,1,ADQ02,Chaux
+22063,,Benoît Frachon,47.65507500,6.83703500,,,0,11163,1,BeF01,Belfort
+22064,,Benoît Frachon,47.65555600,6.83717200,,,0,11163,1,BeF02,Cravanche
+22172,,Berger,47.60705900,6.84692700,,,0,11220,1,Fro01,Andelnans
+23047,,Berly,47.65376000,6.83074900,,,0,11707,2,AJY01,Cravanche
+22699,,Bermont,47.57982000,6.85293000,,,0,11510,2,ACE01,Bermont
+22700,,Bermont,47.57982000,6.85293000,,,0,11510,2,ACE02,Bermont
+22283,,Bessoncourt,47.64547800,6.93200600,,,0,11296,1,Bes01,Bessoncourt
+22284,,Bessoncourt,47.64568600,6.93063500,,,0,11296,1,Bes02,Bessoncourt
+22657,,Beucler,47.48739000,6.92595000,,,0,11489,1,BEU01,Beaucourt
+22658,,Beucler,47.48839000,6.92603000,,,0,11489,2,BEU02,Beaucourt
+21012,,Beurrerie,47.67382400,6.84438600,,,0,10526,1,Beu01,Valdoie
+21013,,Beurrerie,47.67412000,6.84469600,,,0,10526,1,Beu02,Valdoie
+22067,,Bichat,47.64150200,6.88124300,,,0,11165,1,Bic01,Belfort
+22653,,Blessonniers,47.49397000,6.92277800,,,0,11487,1,ABY01,Beaucourt
+22654,,Blessonniers,47.49393100,6.92239700,,,0,11487,1,ABY02,Beaucourt
+20529,,Blum,47.63447200,6.84653700,,,0,10275,1,Blu01,Belfort
+20530,,Blum,47.63445000,6.84666500,,,0,10275,1,Blu02,Belfort
+22330,,Bochets,47.64678900,6.98278100,,,0,11320,1,Fra01,Frais
+22331,,Bochets,47.64661000,6.98353100,,,0,11320,2,Fra02,Frais
+20579,,Bohn,47.64851000,6.84693000,,,0,10304,1,Boh01,Belfort
+20580,,Bohn,47.64867800,6.84686000,,,0,10304,1,Boh02,Belfort
+23152,,Bois d'Essert,47.63615500,6.84662500,,,0,11770,2,BOI011,Belfort
+23103,,Bois Joli,47.64133900,6.79568200,,,0,11740,1,CHA01,Châlonvillars
+22770,,Bois Sarclés,47.71265000,6.92446000,,,0,11547,1,ADE01,Étueffont
+22771,,Bois Sarclés,47.71277000,6.92456000,,,0,11547,1,ADE02,Étueffont
+22469,,Bon Bois,47.59832000,6.96078000,,,0,11391,2,AAW01,Autrechêne
+22470,,Bon Bois,47.59788000,6.96112000,,,0,11391,2,AAW02,Autrechêne
+22772,,Bonnaymé,47.71577500,6.92334000,,,0,11548,1,ADF01,Étueffont
+22773,,Bonnaymé,47.71611200,6.92332700,,,0,11548,1,ADF02,Étueffont
+20607,,Bonneff,47.62896000,6.84565700,,,0,10319,1,Bon01,Belfort
+20608,,Bonneff,47.62852000,6.84559500,,,0,10319,1,Bon02,Belfort
+22449,,Boron,47.56006000,7.01225000,,,0,11381,2,AAS01,Boron
+22450,,Boron,47.55988000,7.01207000,,,0,11381,2,AAS02,Boron
+20271,,Bosmont,47.62058000,6.86622100,,,0,10141,1,Bos01,Danjoutin
+20272,,Bosmont,47.62083000,6.86552200,,,0,10141,1,Bos02,Danjoutin
+22695,,Botans,47.59614000,6.85398000,,,0,11508,2,ACD01,Botans
+22696,,Botans,47.59627000,6.85352000,,,0,11508,2,ACD02,Botans
+22819,,Boulloche,47.50300700,6.99166800,,,0,11572,2,AEE01,Delle
+22820,,Boulloche,47.50269500,6.99163900,,,0,11572,2,AEE02,Delle
+22693,,Bouloye,47.59470900,6.84904300,,,0,11507,2,BOu01,Botans
+22981,,Bouloye,47.59454100,6.84894500,,,0,11507,2,BOu02,Botans
+22348,,Bourbet,47.66643000,7.02778200,,,0,11329,2,Bou01,Reppe
+22349,,Bourbet,47.66647300,7.02788700,,,0,11329,2,Bou02,Reppe
+23043,,Bourg-Sous-Châtelet,47.70101900,6.94898900,,,0,11705,1,AJW,Bourg-sous-Châtelet
+23044,,Bourg-Sous-Châtelet,47.70091500,6.94861500,,,0,11705,1,AJW02,Bourg-sous-Châtelet
+20299,,Bourogne,47.56085200,6.91946000,,,0,10155,1,Mbo01,Bourogne
+20300,,Bourogne,47.56103800,6.91931400,,,0,10155,1,Mbo02,Bourogne
+22883,,Brassens,47.48598000,6.92413000,,,0,11608,1,AFQ01,Beaucourt
+22441,,Brebotte,47.57777000,6.97403000,,,0,11377,2,AAR01,Brebotte
+22442,,Brebotte,47.57795000,6.97443000,,,0,11377,2,AAR02,Brebotte
+22455,,Bretagne,47.59400600,6.99797800,,,0,11384,1,AAU01,Bretagne
+22456,,Bretagne,47.59386000,6.99842000,,,0,11384,2,AAU02,Bretagne
+22604,,Bretilloux,47.52434600,6.99230700,,,0,11461,2,ABM01,Thiancourt
+22605,,Bretilloux,47.52407900,6.99254500,,,0,11461,2,ABM02,Thiancourt
+20519,,Briand,47.65579600,6.86250800,,,0,10270,1,Bri01,Offemont
+20520,,Briand,47.65564700,6.86251800,,,0,10270,1,Bri02,Offemont
+21935,,Briand,47.65543000,6.86221800,,,0,10270,1,Bri03,Offemont
+23097,,Brières,47.48286700,6.91373500,,,0,11737,2,AKW01,Beaucourt
+20960,,Bruxelles,47.63390700,6.84350300,,,0,10503,1,Bru01,Belfort
+20961,,Bruxelles,47.63390700,6.84397600,,,0,10503,1,Bru02,Belfort
+22548,,Bruyères,47.74300000,6.77455000,,,0,11432,2,BRu01,Auxelles-Haut
+22549,,Bruyères,47.74300000,6.77455000,,,0,11432,2,BRu02,Auxelles-Haut
+22891,,Buc,47.61440000,6.78414000,,,0,11614,2,BUC01,Buc
+22740,,Buchers,47.53670600,6.97917100,,,0,11532,1,Buc01,Grandvillars
+22741,,Buchers,47.53676100,6.97930900,,,0,11532,1,Buc02,Grandvillars
+23020,,Calvaire,47.53523200,6.96362700,,,0,11694,2,AJM01,Grandvillars
+20622,,Camus,47.64159000,6.87834500,,,0,10326,1,Cam01,Belfort
+20301,,Canal,47.55767000,6.92410200,,,0,10156,1,Can01,Bourogne
+20302,,Canal,47.55777700,6.92375800,,,0,10156,1,Can02,Bourogne
+23182,,Canal du Moulin,47.65461300,6.99601400,,,0,11790,2,C2M0,Fontaine
+23183,,Canal du Moulin,47.65458600,6.99557300,,,0,11790,2,C2M02,Fontaine
+22610,,Caporal Peugeot,47.52417300,7.01057300,,,0,11464,2,Cpo01,Joncherey
+22611,,Caporal Peugeot,47.52403600,7.01059600,,,0,11464,2,Cpo02,Joncherey
+23010,,Carrefour,47.59540500,6.99714300,,,0,11687,2,AJF01,Bretagne
+23014,,Carrefour,47.59548100,6.99739100,,,0,11687,2,AJF02,Bretagne
+20592,,Carrières,47.63472000,6.82992100,,,0,10311,1,CAr01,Essert
+20593,,Carrières,47.63487000,6.83040300,,,0,10311,1,CAr02,Essert
+23111,,Carrières,47.63541800,6.82929500,,,0,10311,2,CAr03,Essert
+23112,,Carrières,47.63545400,6.82914500,,,0,10311,2,CAr04,Essert
+22978,,Centre,47.58878500,6.84019000,,,0,11668,2,AIM01,Dorans
+22983,,Centre,47.58899000,6.84068000,,,0,11668,2,AIM02,Dorans
+22174,,Centre Commercial,47.65931300,6.86755000,,,0,11222,1,CtC01,Offemont
+22175,,Centre Commercial,47.65899700,6.86721000,,,0,11222,1,CtC02,Offemont
+22387,,Centre Équestre,47.62949400,6.93562900,,,0,11349,2,CtE01,Chèvremont
+22388,,Centre Équestre,47.62937300,6.93391000,,,0,11349,2,CtE02,Chèvremont
+22271,,Cerisiers,47.63743100,6.88837000,,,0,11290,1,AHA01,Pérouse
+22272,,Cerisiers,47.63733200,6.88995800,,,0,11290,1,AHA02,Pérouse
+20620,,CFA,47.63989300,6.87828600,,,0,10325,1,CFA01,Belfort
+20621,,CFA,47.64025000,6.87817800,,,0,10325,1,CFA02,Belfort
+22291,,Chalet,47.67022900,6.94912100,,,0,11300,2,AAC01,Menoncourt
+22292,,Chalet,47.67014900,6.94915300,,,0,11300,2,AAC02,Menoncourt
+20521,,Champ de Mars,47.65290000,6.86247800,,,0,10271,1,Cha01,Belfort
+20522,,Champ de Mars,47.65292400,6.86253100,,,0,10271,1,Cha02,Belfort
+22813,,Champs au Roi,47.47011800,6.95906400,,,0,11569,2,AEB01,Saint-Dizier-l'Évêque
+22814,,Champs au Roi,47.47015300,6.95903100,,,0,11569,2,AEB02,Saint-Dizier-l'Évêque
+22173,,Champs Cerisiers,47.65976000,6.88765000,,,0,11221,1,Cer01,Offemont
+22295,,Champs de la Vigne,47.68128100,6.96248300,,,0,11302,1,LeV01,Bethonvilliers
+22296,,Champs de la Vigne,47.68136900,6.96258200,,,0,11302,1,LeV02,Bethonvilliers
+22967,,Chantoiseau,47.75533600,6.85134600,,,0,11661,2,AIE1,Vescemont
+23169,,Chantoiseau,47.75540600,6.85133900,,,0,11661,2,AIE2,Vescemont
+22309,,Chapelle,47.71730000,7.02699000,,,0,11309,2,AAE01,Lachapelle-sous-Rougemont
+22310,,Chapelle,47.71731100,7.02703400,,,0,11309,2,AAE02,Lachapelle-sous-Rougemont
+22431,,Charmois,47.57199300,6.94000200,,,0,11372,2,AAQ01,Charmois
+22432,,Charmois,47.57191400,6.94001000,,,0,11372,2,AAQ02,Charmois
+22766,,Charmotte,47.70587000,6.92745000,,,0,11545,1,ADB01,Anjoutey
+22767,,Charmotte,47.70582100,6.92757300,,,0,11545,1,ADB02,Anjoutey
+20943,,Chaume,47.69407700,6.87686900,,,0,10495,1,ElC01,Éloie
+21745,,Chaume,47.69445000,6.87677800,,,0,10495,2,ElC02,Éloie
+23145,,Chaumière,47.81019400,6.84613400,,,0,11763,2,Chau1,Lepuix
+22790,,Chaux,47.70570000,6.83701000,,,0,11557,2,ADO01,Chaux
+22791,,Chaux,47.70622000,6.83691000,,,0,11557,2,ADO02,Chaux
+22640,,Chavanatte,47.57771000,7.06839400,,,0,11479,2,CVT01,Chavanatte
+22641,,Chavanatte,47.57798300,7.06829100,,,0,11479,2,CVT02,Chavanatte
+22644,,Chavannes-les-Grands,47.59119500,7.04772200,,,0,11481,2,ABV01,Chavannes-les-Grands
+22645,,Chavannes-les-Grands,47.59111000,7.04772000,,,0,11481,2,ABV02,Chavannes-les-Grands
+22976,,Chemin de la Concenterie,47.76558000,6.89008800,,,0,11666,2,AIH1,Riervescemont
+20001,,Chemin de la Ferme,47.63898000,6.80258000,,,0,10001,1,CHF01,Essert
+22099,,Chemin de la Ferme,47.63897000,6.80226000,,,0,10001,1,CHF02,Essert
+22360,,Chemin du Moulin,47.68037000,7.00015900,,,0,11335,2,AAL01,Larivière
+22361,,Chemin du Moulin,47.68010700,6.99977300,,,0,11335,2,AAL02,Larivière
+23060,,Chenecées,47.60605900,6.96832000,,,0,11715,2,AKF01,Novillard
+22317,,Château d'Eau,47.72390900,7.00280700,,,0,11313,2,Châ01,Petitefontaine
+22318,,Château d'Eau,47.72375800,7.00294700,,,0,11313,2,Châ02,Petitefontaine
+22340,,Château Tuilerie,47.63963700,7.00331800,,,0,11325,2,Tui01,Foussemagne
+22341,,Château Tuilerie,47.63977500,7.00341100,,,0,11325,2,Tui02,Foussemagne
+20920,,Châtenois,47.55814100,6.84935900,,,0,10482,1,MCH01,Châtenois-les-Forges
+20921,,Châtenois,47.55985000,6.85249800,,,0,10482,2,MCH02,Châtenois-les-Forges
+20313,,Châtenois Forges,47.56281000,6.85448100,,,0,10162,1,for01,Châtenois-les-Forges
+20314,,Châtenois Forges,47.56261400,6.85419300,,,0,10162,1,for02,Châtenois-les-Forges
+22474,,Chèvremont,47.62788000,6.92347000,,,0,11393,1,Ché02,Chèvremont
+22632,,Chésal,47.54187700,7.09718100,,,0,11475,2,CHé01,Lepuix-Neuf
+22633,,Chésal,47.54157900,7.09732900,,,0,11475,2,CHé02,Lepuix-Neuf
+22892,,Chêne,47.60991000,6.80872700,,,0,11615,2,AFV01,Urcerey
+22893,,Chêne,47.60995900,6.80883700,,,0,11615,2,AFV02,Urcerey
+23186,,Chênes,47.56261500,6.94202000,,,0,11791,2,CHN02,Froidefontaine
+23188,,Chênes,47.56303300,6.94231200,,,0,11791,2,CHN01,Froidefontaine
+20927,,Chênois,47.61952200,6.84691500,,,0,10486,1,CHE01,Bavilliers
+20928,,Chênois,47.61933500,6.84850600,,,0,10486,1,CHE02,Danjoutin
+22996,,Cimetière,47.55587300,6.85164100,,,0,11678,2,AIW01,Châtenois-les-Forges
+20626,,Cimetière Militaire,47.63838000,6.87149000,,,0,10328,1,CiM01,Belfort
+20627,,Cimetière Militaire,47.63827000,6.87271800,,,0,10328,1,CiM02,Belfort
+22665,,Cité du Val,47.47708300,6.91467300,,,0,11493,2,CtV01,Dasle
+22666,,Cité du Val,47.47702200,6.91438900,,,0,11493,2,CtV02,Dasle
+22824,,Cité Jules Ferry,47.50891800,6.99060600,,,0,11574,1,AEH01,Delle
+23051,,Cité Jules Ferry,47.50911900,6.99058800,,,0,11574,2,JuFer,Delle
+23000,,Cités du Maroc,47.56233200,6.85998000,,,0,11680,2,AIY01,Trévenans
+23005,,Cités du Maroc,47.56236700,6.86004600,,,0,11680,2,AIY02,Trévenans
+23109,,Clair Chenois,47.67191400,6.99242200,,,0,11743,2,AKZ01,Larivière
+23110,,Clair Chenois,47.67198200,6.99215100,,,0,11743,2,AKZ02,Larivière
+22720,,Claret,47.50780500,7.00317400,,,0,11522,1,Cla01,Delle
+22721,,Claret,47.50787000,7.00329000,,,0,11522,2,Cla02,Delle
+22380,,Clinique,47.64347300,6.86451900,,,0,11345,1,AHD02,Belfort
+22001,,Clémenceau,47.64115600,6.85900000,,,0,11136,1,Cle01,Belfort
+22002,,Clémenceau,47.64124700,6.85894100,,,0,11136,1,Cle02,Belfort
+20265,,Colbert,47.62862400,6.85672400,,,0,10138,1,Col01,Belfort
+20266,,Colbert,47.62850600,6.85676100,,,0,10138,1,Col02,Belfort
+23170,,Colline,47.70134500,6.82024400,,,0,11783,1,COL01,Lachapelle-sous-Chaux
+23006,,Collège Camille Claudel,47.61040300,7.00301900,,,0,11684,2,AJC01,Montreux-Château
+23038,,Collège Colucci,47.73466200,6.97194000,,,0,11703,2,AJU01,Rougemont-le-Château
+23018,,Collège Lucie Aubrac,47.54783200,6.93350200,,,0,11692,1,AJK,Morvillars
+22980,,Collège Mozart,47.61620400,6.86429000,,,0,11670,1,AIO01,Danjoutin
+22977,,Collège Saint Exupéry,47.49347200,6.91657300,,,0,11667,2,AIL01,Beaucourt
+23055,,Collège Vauban Parking,47.63974200,6.88000200,,,0,11712,2,AKC01,Belfort
+20499,,Colmar,47.64881000,6.85350400,,,0,10260,1,COl01,Belfort
+20500,,Colmar,47.64849000,6.85375300,,,0,10260,1,COl02,Belfort
+23002,,Combattes,47.55690100,6.86789200,,,0,11682,2,AJA01,Trévenans
+20305,,Conforama,47.57633200,6.86018300,,,0,10158,1,Rtb01,Trévenans
+20306,,Conforama,47.57600000,6.86017000,,,0,10158,1,Rtb02,Trévenans
+20587,,Courbet,47.65440000,6.85612300,,,0,10308,1,Gam01,Belfort
+20588,,Courbet,47.65445300,6.85645000,,,0,10308,1,Gam02,Belfort
+23050,,Courbet,47.65295200,6.85595900,,,0,10308,2,Courb,Belfort
+22608,,Courcelles,47.49921000,7.07703000,,,0,11463,2,ABO01,Courcelles
+22609,,Courtelevant,47.51808100,7.07943500,,,0,11483,2,ABP01,Courtelevant
+22647,,Courtelevant,47.51811800,7.08010000,,,0,11483,2,ABW02,Courtelevant
+22096,,Cravanche Centre,47.65380100,6.83315800,,,0,11180,2,CrC02,Cravanche
+22093,,Cravanchoise,47.65235000,6.82860000,,,0,11171,2,Cva01,Cravanche
+22094,,Cravanchoise,47.65252000,6.82858000,,,0,11171,2,Cva02,Cravanche
+22289,,Croisement,47.66470800,6.96021000,,,0,11299,2,Cro01,Lacollonge
+22290,,Croisement,47.66502200,6.96011400,,,0,11299,2,Cro02,Lacollonge
+22642,,Croisée,47.58022600,7.06581900,,,0,11480,1,cro01,Chavanatte
+22643,,Croisée,47.58011500,7.06660800,,,0,11480,2,cro02,Chavanatte
+22815,,Croix,47.44584200,6.95467800,,,0,11570,2,AEC01,Croix
+22816,,Croix,47.44560700,6.95472200,,,0,11570,2,AEC02,Croix
+22915,,Croix du Bois,47.74122200,6.78093200,,,0,11629,2,CxB01,Auxelles-Haut
+22916,,Croix du Bois,47.74117700,6.78089000,,,0,11629,2,CxB02,Auxelles-Haut
+23001,,Croze,47.55431900,6.86754900,,,0,11681,2,AIZ01,Trévenans
+22751,,Cunelières,47.62565000,6.99794000,,,0,11537,2,ACU01,Cunelières
+22752,,Cunelières,47.62532000,6.99783000,,,0,11537,2,ACU02,Cunelières
+22956,,Côte le Saint,47.69898100,6.80557500,,,0,11655,2,AHX1,Lachapelle-sous-Chaux
+23216,,Dambenois,47.55043500,6.86797100,,,0,11815,0,DAM011,Dambenois
+23085,,Dampierre les Bois,47.50621400,6.91226400,,,0,11733,1,AKS01,Dampierre-les-Bois
+23092,,Dampierre les Bois,47.50611800,6.91313800,,,0,11733,1,AKS02,Dampierre-les-Bois
+20014,,De Gaulle,47.63597000,6.80768000,,,0,10007,1,DEG01,Essert
+20015,,De Gaulle,47.63583000,6.80735000,,,0,10007,1,DEG02,Essert
+23069,,De Lattre,47.51368000,7.00759000,,,0,11721,2,AKL01,Delle
+23074,,De Lattre,47.51374300,7.00754700,,,0,11721,2,AKL02,Delle
+23065,,De Vinci,47.63214800,6.84939200,,,0,11718,2,AKI01,Belfort
+22588,,Delle Gare,47.50589000,7.00822000,,,0,11454,2,Dga01,Delle
+22591,,Delle Gare,47.50589000,7.00822000,,,0,11454,1,Dga02,Delle
+21999,,Denfert Rochereau,47.63408000,6.85705000,,,0,11135,1,DRo01,Belfort
+22000,,Denfert Rochereau,47.63407900,6.85775300,,,0,11135,1,DRo02,Belfort
+22881,,Denney,47.65923600,6.91824000,,,0,11607,2,AFP01,Denney
+22882,,Denney,47.65916300,6.91832100,,,0,11607,1,AFP02,Denney
+22376,,Deshaie,47.64521400,6.86917800,,,0,11343,2,AHF02,Belfort
+22837,,Devant les Monts,47.66935800,6.90445800,,,0,11583,2,AER01,Vétrigne
+22838,,Devant les Monts,47.66944600,6.90427200,,,0,11583,2,AER02,Vétrigne
+23086,,Dodillet,47.50791000,6.91212500,,,0,11734,1,AKT01,Dampierre-les-Bois
+23091,,Dodillet,47.50735200,6.91178100,,,0,11734,1,AKT02,Dampierre-les-Bois
+20585,,Donation Maurice Jardot,47.64276500,6.85400500,,,0,10307,1,Hop01,Belfort
+20973,,Donation Maurice Jardot,47.64305000,6.85334600,,,0,10307,1,Hop02,Belfort
+22705,,Dorans,47.58960500,6.83629600,,,0,11513,2,ACH01,Dorans
+22706,,Dorans,47.58964900,6.83601600,,,0,11513,2,ACH02,Dorans
+22979,,Douce,47.58979100,6.84235100,,,0,11669,2,AIN01,Dorans
+22982,,Douce,47.58949400,6.84178100,,,0,11669,2,AIN02,Dorans
+22061,,Dubail,47.63559300,6.84951100,,,0,11162,1,DUb01,Belfort
+22062,,Dubail,47.63560000,6.84943300,,,0,11162,1,DUb02,Belfort
+22457,,Ecrevisse,47.57979100,6.96975600,,,0,11385,1,AAV01,Brebotte
+22458,,Ecrevisse,47.58004000,6.96976000,,,0,11385,1,AAV02,Brebotte
+22831,,Ecureuils,47.66624600,6.88877900,,,0,11580,2,AEO01,Vétrigne
+22832,,Ecureuils,47.66633800,6.88923800,,,0,11580,2,AEO02,Vétrigne
+22784,,Egalité,47.68684700,6.83844300,,,0,11554,1,ADL01,Sermamagny
+22785,,Egalité,47.68759500,6.83751400,,,0,11554,1,ADL02,Sermamagny
+22515,,Egrins,47.67095300,6.79274700,,,0,11415,2,Egr02,Évette-Salbert
+21008,,Eloie,47.69030400,6.87438000,,,0,10524,1,Elo01,Éloie
+21009,,Eloie,47.69016000,6.87278100,,,0,10524,2,Elo02,Éloie
+21208,,Eluard,47.61687500,6.86163600,,,0,10626,1,Elu01,Danjoutin
+21209,,Eluard,47.61668000,6.86158300,,,0,10626,1,Elu02,Danjoutin
+22792,,Eparses,47.71925000,6.83255000,,,0,11558,1,ADP01,Chaux
+22793,,Eparses,47.71933000,6.83267000,,,0,11558,1,ADP02,Chaux
+22459,,Eschêne,47.58630000,6.95958000,,,0,11386,2,Esc01,Autrechêne
+22460,,Eschêne,47.58606000,6.95990000,,,0,11386,2,Esc02,Autrechêne
+20297,,Espace Gantner,47.56382400,6.91714600,,,0,10154,1,EcB01,Bourogne
+20298,,Espace Gantner,47.56372700,6.91719800,,,0,10154,1,EcB02,Bourogne
+20589,,Essert,47.63428000,6.81915600,,,0,10309,1,Ess01,Essert
+21747,,Essert,47.63431500,6.81855800,,,0,10309,1,Ess02,Essert
+22346,,Etang,47.66327400,7.02758100,,,0,11328,2,Eta01,Reppe
+22347,,Etang,47.66347400,7.02781800,,,0,11328,2,Eta02,Reppe
+22352,,Etang Prévot,47.68512800,7.02708200,,,0,11331,2,AHL01,Vauthiermont
+22321,,Etangs Charmottes,47.72821900,6.98737600,,,0,11315,2,AAF01,Leval
+22322,,Etangs Charmottes,47.72832900,6.98728900,,,0,11315,2,AAF02,Leval
+22508,,Evette-Salbert,47.67684800,6.79966100,,,0,11412,1,ABE01,Évette-Salbert
+22509,,Evette-Salbert,47.67672900,6.79950600,,,0,11412,1,ABE02,Évette-Salbert
+22851,,Fahy,47.66642800,6.96730200,,,0,11590,1,AEY01,Lacollonge
+22852,,Fahy,47.66637800,6.96787100,,,0,11590,2,AEY02,Lacollonge
+22756,,Faubourg de Brisach,47.64205600,6.87183800,,,0,11540,2,AHO01,Belfort
+22757,,Faubourg de Brisach,47.64207500,6.87216400,,,0,11540,2,AH002,Belfort
+22689,,Faubourg de Montbéliard,47.50458500,6.98962900,,,0,11505,1,Rtm01,Delle
+22690,,Faubourg de Montbéliard,47.50463800,6.98935700,,,0,11505,1,Rtm02,Delle
+22897,,Favernot,47.62867000,6.99377000,,,0,11617,2,AFY01,Cunelières
+22898,,Favernot,47.62888000,6.99362000,,,0,11617,2,AFY02,Cunelières
+22614,,Faverois,47.52085500,7.03465000,,,0,11466,1,fav01,Faverois
+22615,,Faverois,47.52089100,7.03402600,,,0,11466,1,fav02,Faverois
+22512,,Favery,47.67089800,6.78723300,,,0,11414,2,Fav01,Évette-Salbert
+22303,,Felon,47.70497000,6.97720300,,,0,11306,2,Fel01,Felon
+22304,,Felon,47.70483600,6.97723800,,,0,11306,2,Fel02,Felon
+20575,,Ferrette,47.65464000,6.84408600,,,0,10302,1,Fer01,Belfort
+20576,,Ferrette,47.65426300,6.84407900,,,0,10302,1,Fer02,Belfort
+22780,,Fg d'Alsace,47.65326000,6.89599000,,,0,11552,2,ADJ01,Denney
+22781,,Fg d'Alsace,47.65350000,6.89734000,,,0,11552,2,ADJ02,Denney
+20259,,Fg de Lyon,47.63500600,6.85023000,,,0,10135,1,FLy01,Belfort
+20260,,Fg de Lyon,47.63495600,6.85035100,,,0,10135,1,FLy02,Belfort
+22389,,Floralies,47.62573800,6.92364400,,,0,11350,1,Flo01,Chèvremont
+22390,,Floralies,47.62557000,6.92380200,,,0,11350,1,Flo02,Chèvremont
+22620,,Florimont,47.51008300,7.06867600,,,0,11469,2,ABQ01,Florimont
+22621,,Florimont,47.50984200,7.06958900,,,0,11469,2,ABQ02,Florimont
+21936,,Foch,47.63747800,6.85878200,,,0,11106,1,CoF01,Belfort
+21937,,Foch,47.63761000,6.85876800,,,0,11106,1,CoF02,Belfort
+22906,,Fonderie,47.73360800,6.84078800,,,0,11623,2,FON01,Rougegoutte
+22907,,Fonderie,47.73350300,6.84123000,,,0,11623,1,FON02,Rougegoutte
+22747,,Fontaine,47.66161600,7.00022500,,,0,11535,2,ACR01,Fontaine
+22748,,Fontaine,47.66181500,7.00017900,,,0,11535,2,ACR02,Fontaine
+22677,,Fontaine du Haut,47.48919500,6.97553200,,,0,11499,2,FoH01,Lebetain
+22678,,Fontaine du Haut,47.48926600,6.97566100,,,0,11499,2,FoH02,Lebetain
+22717,,Fonteneilles,47.48519000,6.92079000,,,0,11520,1,fon01,Beaucourt
+22573,,Fontenelle,47.62156600,6.95721600,,,0,11445,2,ABJ01,Fontenelle
+22574,,Fontenelle,47.62162000,6.95747000,,,0,11445,2,ABJ02,Fontenelle
+22481,,Fontenottes,47.72288500,6.88594700,,,0,11397,2,Fon01,Grosmagny
+22482,,Fontenottes,47.72302300,6.88574000,,,0,11397,2,Fon02,Grosmagny
+22774,,Forge Musée,47.72246000,6.92053000,,,0,11549,2,ADG01,Étueffont
+22775,,Forge Musée,47.72246000,6.92053000,,,0,11549,2,ADG02,Étueffont
+22796,,Fougerets,47.73226000,6.82997000,,,0,11560,1,ADR01,Giromagny
+22797,,Fougerets,47.73230600,6.83008600,,,0,11560,1,ADR02,Giromagny
+22703,,Fougères,47.58724800,6.84035000,,,0,11512,2,ACG01,Dorans
+22704,,Fougères,47.58732900,6.84031000,,,0,11512,2,ACG02,Dorans
+22336,,Foussemagne,47.63490000,7.00228600,,,0,11323,1,AAH01,Foussemagne
+22337,,Foussemagne,47.63457300,7.00238000,,,0,11323,2,AAH02,Foussemagne
+22329,,Foyer Rural,47.73621400,6.97213800,,,0,11319,1,Foy01,Rougemont-le-Château
+22332,,Frais,47.64547700,6.98709900,,,0,11321,1,Boc01,Frais
+22333,,Frais,47.64500400,6.98645700,,,0,11321,2,Boc02,Frais
+22206,,Froideval l'Assise,47.60819500,6.84164500,,,0,11242,1,Ass01,Andelnans
+22207,,Froideval l'Assise,47.60843700,6.84193500,,,0,11242,1,Ass02,Andelnans
+22166,,Frézard,47.64619000,6.79001000,,,0,11214,2,FOR01,Châlonvillars
+22685,,Fêche-l'Église,47.50500800,6.95207300,,,0,11503,1,Fec01,Fêche-l'Église
+22686,,Fêche-l'Église,47.50510200,6.95220700,,,0,11503,1,Fec02,Fêche-l'Église
+22385,,Galants,47.63084100,6.92452800,,,0,11348,1,Gal01,Chèvremont
+22386,,Galants,47.63089600,6.92466600,,,0,11348,1,Gal02,Chèvremont
+20008,,Gardey,47.63582500,6.83451400,,,0,10004,1,GRD01,Essert
+20009,,Gardey,47.63596300,6.83468300,,,0,10004,1,GRD02,Essert
+21966,,Gare,47.63427400,6.85373400,,,0,11114,1,Gar02,Belfort
+22050,,Gare,47.63439600,6.85369900,,,0,11114,1,Gar01,Belfort
+22101,,Gare,47.63352000,6.85411000,,,0,11114,1,Gar03,Belfort
+22102,,Gare,47.63343400,6.85413000,,,0,11114,1,Gar04,Belfort
+22103,,Gare,47.63376600,6.85399100,,,0,11114,1,Gar05,Belfort
+22104,,Gare,47.63366300,6.85399800,,,0,11114,1,Gar06,Belfort
+23114,,Gare,47.63257800,6.85455200,,,0,11114,1,Gar07,Belfort
+22561,,Gare Petit-Croix,47.61066900,6.99534900,,,0,11439,1,GAr01,Montreux-Château
+22562,,Gare Petit-Croix,47.61053500,6.99511400,,,0,11439,1,GAr02,Montreux-Château
+21933,,Gare TGV,47.58485800,6.89614300,,,0,11105,1,TGV01,Meroux-Moval
+21934,,Gare TGV,47.58456400,6.89628100,,,0,11105,1,TGV02,Meroux-Moval
+23108,,Gare TGV,47.58415000,6.89576000,,,0,11105,1,TGV03,Meroux-Moval
+22798,,Gendarmerie,47.73850300,6.82911100,,,0,11561,1,ADS01,Giromagny
+22799,,Gendarmerie,47.73831700,6.82965300,,,0,11561,1,ADS02,Giromagny
+23144,,Gentiane,47.80103300,6.84870700,,,0,11762,2,GENT1,Lepuix
+22804,,Giromagny,47.74161700,6.82736700,,,0,11564,1,ADV01,Giromagny
+22805,,Giromagny,47.74168000,6.82727000,,,0,11564,1,ADV02,Giromagny
+23049,,Goscinny,47.66766100,6.84681000,,,0,11709,2,AKA01,Valdoie
+22974,,Goutte des Canals,47.76703800,6.87070600,,,0,11664,2,AIG1,Riervescemont
+23011,,Goutte Haine,47.59021700,6.99744200,,,0,11688,2,AIG01,Bretagne
+23067,,Goutte Haine,47.59005300,6.99755800,,,0,11688,2,AIG02,Bretagne
+22957,,Goutte Oineux,47.69970100,6.81106000,,,0,11656,2,AHY1,Lachapelle-sous-Chaux
+22477,,Gouttes,47.71957000,6.87933600,,,0,11395,2,Gou01,Grosmagny
+22478,,Gouttes,47.71973300,6.87972700,,,0,11395,2,Gou02,Grosmagny
+20923,,Grand'Combe,47.64388300,6.83412400,,,0,10484,1,Gco01,Belfort
+20924,,Grand'Combe,47.64363000,6.83410100,,,0,10484,1,Gco02,Belfort
+23178,,Grande Piste 1,47.65997700,7.01509700,,,0,11786,1,A2G01,Fontaine
+23179,,Grande Piste 2,47.65755200,7.01249600,,,0,11787,2,A3G01,Fontaine
+23180,,Grande Piste 3,47.65384800,7.00867600,,,0,11788,2,A4G01,Fontaine
+22728,,Grande Rue,47.52748300,6.99875600,,,0,11526,2,GDR01,Joncherey
+22729,,Grande Rue,47.52722400,6.99946300,,,0,11526,2,GDR02,Joncherey
+22502,,Grandes Planches,47.66931100,6.81654700,,,0,11409,1,Gdp01,Évette-Salbert
+22503,,Grandes Planches,47.66937900,6.81599100,,,0,11409,2,Gdp02,Évette-Salbert
+22581,,Grands Champs,47.60993300,7.00205400,,,0,11449,1,ABK01,Montreux-Château
+22582,,Grands Champs,47.61034000,7.00156000,,,0,11449,1,ABK02,Montreux-Château
+22596,,Grelat,47.50603200,6.99578200,,,0,11457,1,Gre01,Delle
+22597,,Grelat,47.50578400,6.99735800,,,0,11457,2,Gre02,Delle
+22786,,Grillons,47.71208000,6.83593000,,,0,11555,1,ADM01,Chaux
+22787,,Grillons,47.71231000,6.83610000,,,0,11555,1,ADM02,Chaux
+22479,,Grosmagny,47.72136500,6.88226000,,,0,11396,2,AAY01,Grosmagny
+22480,,Grosmagny,47.72141700,6.88254600,,,0,11396,2,AAY02,Grosmagny
+22445,,Grosne,47.57524000,6.99890000,,,0,11379,2,Gro01,Grosne
+22446,,Grosne,47.57511400,6.99900300,,,0,11379,2,Gro02,Grosne
+20275,,Grottes,47.61548600,6.85949800,,,0,10143,1,Pot01,Danjoutin
+20276,,Grottes,47.61432600,6.85959500,,,0,10143,1,Pot02,Danjoutin
+20596,,Guidon,47.63673000,6.84098500,,,0,10313,1,Gui01,Belfort
+20597,,Guidon,47.63673800,6.84067700,,,0,10313,1,Gui02,Belfort
+20922,,Géhant,47.55593000,6.85272000,,,0,10483,2,Géh01,Châtenois-les-Forges
+21753,,Géhant,47.55614500,6.85225300,,,0,10483,2,Géh02,Châtenois-les-Forges
+22865,,Haguenau,47.66093200,6.93248200,,,0,11599,1,AFI01,Phaffans
+22866,,Haguenau,47.66104500,6.93151100,,,0,11599,1,AFI02,Phaffans
+22587,,Halte Fluviale,47.60164800,7.00173700,,,0,11452,2,Flu01,Montreux-Château
+23009,,Halte Fluviale,47.60166500,7.00183000,,,0,11452,2,Flu02,Montreux-Château
+21946,,Hatry,47.63762700,6.85020300,,,0,11109,1,Pha01,Belfort
+21947,,Hatry,47.63758500,6.85009800,,,0,11109,1,Pha02,Belfort
+22782,,Haut du Mont,47.68207800,6.83978700,,,0,11553,1,ADK01,Sermamagny
+22783,,Haut du Mont,47.68241000,6.83985800,,,0,11553,1,ADK02,Sermamagny
+22378,,Haute Miotte,47.64521300,6.86638900,,,0,11344,2,HtM02,Belfort
+20624,,Hauts de Belfort,47.64349000,6.88604400,,,0,10327,1,HDB01,Belfort
+23116,,Helvétie,47.50852900,6.80680500,,,0,11745,1,Hel01,Montbéliard
+23118,,Helvétie,47.50841600,6.80565500,,,0,11745,1,Hel02,Montbéliard
+22753,,Henri Dorey,47.61389000,6.99859000,,,0,11538,2,ACV01,Montreux-Château
+22754,,Henri Dorey,47.61368000,6.99850200,,,0,11538,2,ACV02,Montreux-Château
+22917,,Hôpital Nfc,47.57629600,6.87223300,,,0,11630,1,HpM01,Trévenans
+23147,,Hôtel du Sommet,47.82092300,6.83730700,,,0,11765,2,Somm1,Lepuix
+23165,,Iris,47.56491900,6.86309400,,,0,11782,2,iri01,Trévenans
+23166,,Iris,47.56481400,6.86305600,,,0,11782,2,iri02,Trévenans
+20253,,IUT,47.64375700,6.84090400,,,0,10132,1,IUT01,Belfort
+20254,,IUT,47.64621400,6.83996300,,,0,10132,1,IUT02,Belfort
+20273,,Jacquot,47.61813000,6.86554500,,,0,10142,1,Jac01,Danjoutin
+20274,,Jacquot,47.61818300,6.86568100,,,0,10142,1,Jac02,Danjoutin
+23045,,Jaminet,47.71355800,7.01267500,,,0,11706,2,AJX01,Lachapelle-sous-Rougemont
+23046,,Jaminet,47.71359100,7.01251700,,,0,11706,2,AJX02,Lachapelle-sous-Rougemont
+22661,,Japy,47.48508000,6.91951000,,,0,11491,1,Jap01,Beaucourt
+22662,,Japy,47.48500000,6.91959000,,,0,11491,1,Jap02,Beaucourt
+20491,,Jean Jaurès,47.64402400,6.85623800,,,0,10256,1,Jau01,Belfort
+20492,,Jean Jaurès,47.64452000,6.85603900,,,0,10256,1,Jau02,Belfort
+22307,,Jeantet,47.71508500,7.02127000,,,0,11308,2,Jea01,Lachapelle-sous-Rougemont
+22606,,Joncherey,47.52579700,7.00108100,,,0,11462,1,ABN01,Joncherey
+22607,,Joncherey,47.52588400,7.00116200,,,0,11462,1,ABN02,Joncherey
+22592,,Jules Joachim,47.50769900,7.00433300,,,0,11455,1,5Fo01,Delle
+22651,,Julg,47.49275900,6.92041600,,,0,11486,1,Jul01,Beaucourt
+22652,,Julg,47.49287000,6.92035700,,,0,11486,1,Jul02,Beaucourt
+22634,,Jura,47.55904900,7.08284100,,,0,11476,2,ABS01,Suarce
+22635,,Jura,47.55893900,7.08303700,,,0,11476,2,ABS02,Suarce
+22997,,Kléber,47.55421200,6.84296500,,,0,11679,2,AIX01,Châtenois-les-Forges
+22999,,Kléber,47.55425700,6.84297700,,,0,11679,2,AIX02,Châtenois-les-Forges
+22428,,L'Allan,47.53180300,6.92032000,,,0,11370,1,LAL01,Méziré
+22429,,L'Allan,47.53199900,6.92055100,,,0,11370,1,LAL02,Méziré
+20599,,La Belle,47.62118000,6.83133800,,,0,10315,1,RuE01,Bavilliers
+20600,,La Belle,47.62120000,6.83123800,,,0,10315,1,RuE02,Bavilliers
+22953,,La Brosse,47.70475100,6.81482500,,,0,11652,2,AHU01,Lachapelle-sous-Chaux
+22863,,La Chaussée,47.65941100,6.91267200,,,0,11598,2,AFH01,Denney
+22864,,La Chaussée,47.65918000,6.91302000,,,0,11598,2,AFH02,Denney
+22301,,La Creuse,47.70308500,6.96054300,,,0,11305,1,LCr01,Saint-Germain-le-Châtelet
+22302,,La Creuse,47.70324000,6.96082300,,,0,11305,2,LCr02,Saint-Germain-le-Châtelet
+20598,,La Dame,47.62394500,6.82861800,,,0,10314,1,Bav01,Bavilliers
+21746,,La Dame,47.62403500,6.82838600,,,0,10314,1,Bav02,Bavilliers
+20478,,La Douce,47.62758600,6.83587100,,,0,10249,1,Res01,Bavilliers
+21743,,La Douce,47.62758600,6.83587100,,,0,10249,1,Res02,Bavilliers
+22886,,La Feschotte,47.51972000,6.91464100,,,0,11610,1,AFS01,Dampierre-les-Bois
+23033,,La Feschotte,47.51950100,6.91449600,,,0,11610,1,AFS02,Dampierre-les-Bois
+23034,,La Forge,47.54544900,6.91713200,,,0,11700,2,AJR,Méziré
+22169,,La Forêt,47.65112000,6.78879000,,,0,11217,2,LaF01,Évette-Salbert
+22861,,La Lot,47.65948000,6.90735000,,,0,11597,2,AFG01,Denney
+22862,,La Lot,47.65942000,6.90743000,,,0,11597,2,AFG02,Denney
+22679,,La Louvière,47.47324000,6.96684800,,,0,11500,2,LLo01,Saint-Dizier-l'Évêque
+22680,,La Louvière,47.47323800,6.96688500,,,0,11500,2,LLo02,Saint-Dizier-l'Évêque
+23041,,La Noue,47.70073600,7.01521300,,,0,11704,2,AJV01,Angeot
+23042,,La Noue,47.70068700,7.01487700,,,0,11704,2,AJV02,Angeot
+23124,,La Planche le Prêtre,47.75559300,6.85217800,,,0,11751,2,PRO02,Vescemont
+20590,,La Poste,47.63384000,6.82451000,,,0,10310,1,Pos01,Essert
+20591,,La Poste,47.63397500,6.82358800,,,0,10310,1,Pos02,Essert
+22984,,La Praie,47.59343000,6.90903200,,,0,11671,2,AIP01,Meroux-Moval
+22994,,La Praie,47.59309500,6.91011200,,,0,11671,2,AIP02,Meroux-Moval
+22430,,La Truche,47.52504300,6.91765200,,,0,11371,2,AHG01,Méziré
+23036,,La Truche,47.52425900,6.91710100,,,0,11371,2,AHG02,Méziré
+22538,,Lachapelle-Sous-Chaux,47.70537800,6.82212800,,,0,11427,2,ABH01,Lachapelle-sous-Chaux
+22539,,Lachapelle-Sous-Chaux,47.70563000,6.82230000,,,0,11427,2,ABH02,Lachapelle-sous-Chaux
+22305,,Lachapelle-Sous-Rougemont,47.71062200,7.01292600,,,0,11307,2,AAD01,Lachapelle-sous-Rougemont
+22306,,Lachapelle-Sous-Rougemont,47.71047600,7.01287200,,,0,11307,2,AAD02,Lachapelle-sous-Rougemont
+22287,,Lacollonge,47.66290900,6.96053500,,,0,11298,1,Lac01,Lacollonge
+22288,,Lacollonge,47.66300300,6.96066200,,,0,11298,1,Lac02,Lacollonge
+22366,,Lagrange,47.68096600,6.97783500,,,0,11338,2,Lag01,Lagrange
+22367,,Lagrange,47.68106500,6.97780800,,,0,11338,2,Lag02,Lagrange
+22524,,Lallemand,47.68375200,6.81393300,,,0,11420,2,LAl01,Sermamagny
+22525,,Lallemand,47.68371200,6.81426600,,,0,11420,2,LAl02,Sermamagny
+22364,,Larivière,47.67269600,6.99837100,,,0,11337,1,AAM01,Larivière
+22365,,Larivière,47.67307800,6.99796900,,,0,11337,1,AAM02,Larivière
+20558,,Laurencie,47.63889700,6.87453800,,,0,10292,1,Zac01,Belfort
+20559,,Laurencie,47.63889000,6.87444800,,,0,10292,1,Zac02,Belfort
+20552,,Laurent Thierry,47.64675500,6.83481100,,,0,10289,1,LaT01,Belfort
+20553,,Laurent Thierry,47.64692300,6.83478400,,,0,10289,1,LaT02,Belfort
+22985,,Lavoir,47.59454600,6.90151000,,,0,11672,2,AIQ01,Meroux-Moval
+22993,,Lavoir,47.59455400,6.90133200,,,0,11672,2,AIQ02,Meroux-Moval
+22669,,Le Bannet,47.47020600,6.92065400,,,0,11495,2,LBa01,Montbouton
+22670,,Le Bannet,47.47042500,6.92067700,,,0,11495,2,LBa02,Montbouton
+23217,,Le Moindry,47.50685700,7.07523400,,,0,11816,2,LeMo1,Courcelles
+23218,,Le Moindry,47.50668600,7.07523000,,,0,11816,2,LeMo2,Courcelles
+20531,,Le Nôtre,47.63099300,6.84787000,,,0,10276,1,LeN01,Belfort
+20532,,Le Nôtre,47.63110700,6.84780600,,,0,10276,1,LeN02,Belfort
+22959,,Le Rhôme,47.70363300,6.81962300,,,0,11658,2,AIA1,Lachapelle-sous-Chaux
+22675,,Lebetain,47.48693800,6.97707700,,,0,11498,2,ACB01,Lebetain
+22676,,Lebetain,47.48696900,6.97723600,,,0,11498,1,ACB02,Lebetain
+22738,,Leclerc,47.54803900,6.94221900,,,0,11531,1,Lec01,Morvillars
+22739,,Leclerc,47.54818900,6.94175600,,,0,11531,1,Lec02,Morvillars
+22858,,Lepuix,47.75820400,6.81937100,,,0,11595,1,AFC01,Lepuix
+23174,,Lepuix,47.75794900,6.81920800,,,0,11595,1,Lep02,Lepuix
+22630,,Lepuix-Neuf,47.53823000,7.10096500,,,0,11474,2,Lpx01,Lepuix-Neuf
+22631,,Lepuix-Neuf,47.53866100,7.10084000,,,0,11474,1,Lpx02,Lepuix-Neuf
+22955,,Les Boulets,47.70044000,6.80375800,,,0,11654,1,AHW,Lachapelle-sous-Chaux
+23148,,Les Démineurs,47.82082400,6.83413100,,,0,11766,2,Demi1,Saint-Maurice-sur-Moselle
+22909,,Les Epreys,47.72773800,6.84319000,,,0,11624,2,Epr02,Rougegoutte
+22370,,Les Errues,47.68667400,6.95249200,,,0,11340,1,Err01,Menoncourt
+23053,,Les Errues,47.68684400,6.95259400,,,0,11340,1,Err02,Menoncourt
+20969,,Les Forges,47.64966000,6.86277100,,,0,10508,1,For01,Belfort
+20970,,Les Forges,47.64910000,6.86259500,,,0,10508,1,For02,Belfort
+22954,,Les Malpateys,47.70175100,6.80706000,,,0,11653,2,AHV01,Lachapelle-sous-Chaux
+21205,,Les Perches,47.63027900,6.86524100,,,0,10624,1,Per01,Belfort
+21206,,Les Perches,47.63024500,6.86536100,,,0,10624,1,Per02,Belfort
+23083,,Les Rochers,47.50154800,6.91469100,,,0,11731,2,AKQ01,Dampierre-les-Bois
+23094,,Les Rochers,47.50167000,6.91468600,,,0,11731,2,AKQ02,Dampierre-les-Bois
+22323,,Leval,47.72866600,6.98246700,,,0,11316,2,AAG01,Leval
+22324,,Leval,47.72871700,6.98251300,,,0,11316,2,AAG02,Leval
+20962,,Liberté Follereau,47.63684000,6.84487300,,,0,10504,1,LiF01,Belfort
+20963,,Liberté Follereau,47.63661000,6.84524300,,,0,10504,1,LiF02,Belfort
+22256,,Liberté Follereau,47.63631000,6.84526000,,,0,10504,2,LiF03,Belfort
+20257,,Liberté Madrid,47.63599400,6.84558500,,,0,10134,1,Lib01,Belfort
+20258,,Liberté Madrid,47.63613000,6.84555000,,,0,10134,1,Lib02,Belfort
+21708,,Lieutenant J. Martin,47.64547800,6.87513400,,,0,10962,2,CSc01,Belfort
+22918,,Lino Ventura,47.57202700,6.99979000,,,0,11631,2,LiV01,Grosne
+22919,,Lino Ventura,47.57187000,6.99972300,,,0,11631,2,LiV02,Grosne
+22397,,Longerois,47.60719400,6.91306400,,,0,11354,2,Lon01,Vézelois
+22398,,Longerois,47.60715900,6.91319100,,,0,11354,2,Lon02,Vézelois
+23029,,Lot de la Baie,47.56339800,6.91320700,,,0,11699,2,AJQ,Bourogne
+22589,,Lotissement Pegoud,47.61354500,6.98041400,,,0,11453,2,LtP01,Petit-Croix
+22590,,Lotissement Pegoud,47.61353900,6.98102400,,,0,11453,2,LtP02,Petit-Croix
+22755,,Lotissement Viot,47.66423700,7.00187300,,,0,11539,1,ACW01,Fontaine
+22896,,Lotissement Viot,47.66418500,7.00172100,,,0,11539,1,AFX02,Fontaine
+20295,,Louis Thomas,47.56616600,6.91209400,,,0,10153,1,LoT01,Bourogne
+20296,,Louis Thomas,47.56583600,6.91247600,,,0,10153,1,LoT02,Bourogne
+23058,,Lycée Follereau,47.63683700,6.84565700,,,0,11713,1,AKD02,Belfort
+20209,,Lycée Quelet,47.67788300,6.84069600,,,0,10110,1,LEP01,Valdoie
+20210,,Lycée Quelet,47.67764300,6.84060900,,,0,10110,1,LEP02,Valdoie
+22281,,Lys,47.64547700,6.92664500,,,0,11295,1,Lys01,Bessoncourt
+22282,,Lys,47.64543800,6.92759500,,,0,11295,1,Lys02,Bessoncourt
+20577,,Madagascar,47.65234000,6.84506600,,,0,10303,1,Mad01,Belfort
+20578,,Madagascar,47.65228700,6.84511800,,,0,10303,1,Mad02,Belfort
+22293,,Madeleine,47.67912000,6.96302900,,,0,11301,1,AHK01,Bethonvilliers
+22294,,Madeleine,47.67944000,6.96292400,,,0,11301,1,AHK02,Bethonvilliers
+22734,,Magny,47.53991000,6.96513900,,,0,11529,2,Mag01,Grandvillars
+22735,,Magny,47.53976800,6.96609600,,,0,11529,2,Mag02,Grandvillars
+23157,,Maison de Santé,47.64560200,6.84675300,,,0,11774,1,MaS01,Belfort
+23123,,Maison Forestière,47.75760600,6.85579000,,,0,11750,2,PRO01,Vescemont
+22520,,Malsaucy,47.68136100,6.80520800,,,0,11418,2,ABF01,Évette-Salbert
+22521,,Malsaucy,47.68127400,6.80468200,,,0,11418,2,ABF02,Évette-Salbert
+20628,,Marcel Braun,47.61954500,6.84234900,,,0,10329,1,MBr01,Bavilliers
+20629,,Marcel Braun,47.61955600,6.84237500,,,0,10329,1,MBr02,Bavilliers
+21201,,Marchegay,47.66129700,6.85366300,,,0,10622,1,Mcg01,Valdoie
+21202,,Marchegay,47.66137000,6.85357200,,,0,10622,1,Mcg02,Valdoie
+20503,,Marché Vosges,47.65202900,6.85061200,,,0,10262,1,MaV01,Belfort
+20504,,Marché Vosges,47.65231700,6.85046100,,,0,10262,1,MaV02,Belfort
+20525,,Marseille,47.64698000,6.86231200,,,0,10273,1,MAr01,Belfort
+20526,,Marseille,47.64701000,6.86236600,,,0,10273,1,MAr02,Belfort
+20517,,Martinet,47.65958400,6.85846400,,,0,10269,1,Mar01,Offemont
+20518,,Martinet,47.65936300,6.85901000,,,0,10269,1,Mar02,Offemont
+22905,,Mendès France,47.63873400,6.87872300,,,0,11622,2,Mdf01,Belfort
+22847,,Menoncourt,47.67004200,6.94540400,,,0,11588,1,AEW01,Menoncourt
+22848,,Menoncourt,47.67002900,6.94563800,,,0,11588,1,AEW02,Menoncourt
+22965,,Menuiserie,47.74861700,6.84204800,,,0,11659,2,AIB1,Vescemont
+23167,,Menuiserie,47.74864900,6.84195700,,,0,11659,2,AIB2,Vescemont
+20231,,Mermoz,47.68314300,6.85550500,,,0,10121,1,Mer01,Éloie
+20232,,Mermoz,47.68305200,6.85550400,,,0,10121,1,Mer02,Éloie
+21927,,Mieg,47.64199400,6.84629500,,,0,11102,1,Mie01,Belfort
+21928,,Mieg,47.64192200,6.84636500,,,0,11102,1,Mie02,Belfort
+22732,,Migeon,47.53844900,6.97189500,,,0,11528,1,Mig01,Grandvillars
+22733,,Migeon,47.53861800,6.97150400,,,0,11528,1,Mig02,Grandvillars
+22856,,Mines,47.75317700,6.81888300,,,0,11594,2,AFB01,Lepuix
+22857,,Mines,47.75320400,6.81898700,,,0,11594,2,AFB02,Lepuix
+22075,,Miotte,47.64155600,6.86602300,,,0,11170,2,Mio01,Belfort
+22742,,Miotte,47.64110000,6.86643000,,,0,11170,1,ACO02,Belfort
+20533,,Molière,47.62851300,6.85150300,,,0,10277,1,Mol01,Belfort
+20534,,Molière,47.62869600,6.85126700,,,0,10277,1,Mol02,Belfort
+22543,,Mont Coron,47.73345700,6.78182200,,,0,11429,2,MtC02,Auxelles-Bas
+22962,,Mont Coron,47.73173000,6.78298600,,,0,11429,1,MtC01,Auxelles-Bas
+22945,,Mont Jean,47.76378700,6.82244500,,,0,11647,2,AHP01,Lepuix
+22946,,Mont Jean,47.76362900,6.82247200,,,0,11647,2,AHP02,Lepuix
+22667,,Montbouton,47.47305600,6.91887800,,,0,11494,2,MON01,Montbouton
+22668,,Montbouton,47.47335900,6.91773600,,,0,11494,2,MON02,Montbouton
+22585,,Montreux-Château,47.60648400,7.00427300,,,0,11451,1,MCx01,Montreux-Château
+22586,,Montreux-Château,47.60658900,7.00438800,,,0,11451,1,MCx02,Montreux-Château
+22422,,Morvillars,47.54671500,6.93357500,,,0,11367,2,AAP01,Morvillars
+22423,,Morvillars,47.54704500,6.93398600,,,0,11367,2,AAP02,Morvillars
+20909,,Morvillars Gare,47.54925100,6.93568300,,,0,10476,1,Mor01,Morvillars
+21752,,Morvillars Gare,47.54929700,6.93533300,,,0,10476,1,Mor02,Morvillars
+20570,,Moulin,47.66487000,6.88211000,,,0,10299,1,Off01,Offemont
+21750,,Moulin,47.66478700,6.88172800,,,0,10299,1,Off02,Offemont
+20605,,Mozart,47.62532400,6.84302400,,,0,10318,1,Moz01,Bavilliers
+20606,,Mozart,47.62553800,6.84340000,,,0,10318,1,Moz02,Bavilliers
+20971,,Mulhouse,47.64377200,6.85140300,,,0,10509,1,MUl01,Belfort
+20972,,Mulhouse,47.64444000,6.84975100,,,0,10509,1,MUl02,Belfort
+20267,,Multiplexe,47.62886100,6.86086000,,,0,10139,1,Mul01,Belfort
+20268,,Multiplexe,47.62876300,6.86137000,,,0,10139,1,Mul02,Belfort
+22894,,Musée Agricole,47.59663000,6.84927000,,,0,11616,2,AFW01,Botans
+22895,,Musée Agricole,47.59670000,6.84918000,,,0,11616,2,AFW02,Botans
+22437,,Musée de l'Artisanat,47.57685700,6.97211500,,,0,11375,2,Bbt01,Brebotte
+22438,,Musée de l'Artisanat,47.57662500,6.97233400,,,0,11375,2,Bbt02,Brebotte
+20243,,Méchelle,47.65875200,6.83686700,,,0,10127,1,Mec01,Belfort
+20244,,Méchelle,47.65863100,6.83674800,,,0,10127,1,Mec02,Cravanche
+22594,,Médiathèque,47.50569600,7.00147300,,,0,11456,1,Med01,Delle
+22595,,Médiathèque,47.50577300,7.00105300,,,0,11456,1,Med02,Delle
+22627,,Mésange,47.49221000,6.91716000,,,0,11485,1,Bct01,Beaucourt
+22650,,Mésange,47.49221000,6.91716000,,,0,11485,1,Bct02,Beaucourt
+22426,,Méziré,47.53718200,6.92284900,,,0,11369,2,Mez01,Méziré
+22427,,Méziré,47.53639100,6.92258000,,,0,11369,1,Mez02,Méziré
+20217,,Nallet,47.67150500,6.84295800,,,0,10114,1,Sup01,Valdoie
+20218,,Nallet,47.67148600,6.84299000,,,0,10114,1,Sup02,Valdoie
+22833,,Nayatte,47.66772100,6.89283200,,,0,11581,2,AEP01,Vétrigne
+22834,,Nayatte,47.66785200,6.89294100,,,0,11581,2,AEP02,Vétrigne
+23068,,Normandie,47.51192900,7.00522500,,,0,11720,2,AKK01,Delle
+23075,,Normandie,47.51194800,7.00513300,,,0,11720,2,AKK02,Delle
+22565,,Novillard,47.60641300,6.97141500,,,0,11441,2,Nov01,Novillard
+22566,,Novillard,47.60593800,6.97142500,,,0,11441,2,Nov02,Novillard
+22762,,Noyé,47.69875000,6.93850000,,,0,11543,1,ACZ01,Anjoutey
+22763,,Noyé,47.69905000,6.93837000,,,0,11543,2,ACZ02,Anjoutey
+20283,,Oeufs Frais,47.58899700,6.85936300,,,0,10147,1,Oeu01,Sevenans
+20284,,Oeufs Frais,47.58887000,6.85922800,,,0,10147,1,Oeu02,Dorans
+22987,,Orchidées,47.60428300,6.87435500,,,0,11674,2,AIS01,Andelnans
+22687,,Paix,47.50672800,6.99267500,,,0,11504,2,pax01,Delle
+22362,,Paon Bleu,47.67623200,6.99790300,,,0,11336,2,PaB01,Larivière
+22363,,Paon Bleu,47.67599700,6.99782000,,,0,11336,2,PaB02,Larivière
+20513,,Paquis,47.66430000,6.84675000,,,0,10267,1,Paq01,Valdoie
+20514,,Paquis,47.66424000,6.84746400,,,0,10267,1,Paq02,Valdoie
+20562,,Parant,47.63585700,6.86932400,,,0,10294,1,Par01,Belfort
+20563,,Parant,47.63586800,6.86931000,,,0,10294,1,Par02,Belfort
+20950,,Parmentier,47.65320200,6.85252200,,,0,10498,1,PAR01,Belfort
+20951,,Parmentier,47.65315600,6.85244400,,,0,10498,1,PAR02,Belfort
+22616,,Paslattes,47.51967700,7.04051200,,,0,11467,2,Pas01,Faverois
+22617,,Paslattes,47.51958000,7.04048500,,,0,11467,2,Pas02,Faverois
+23048,,Pasteur,47.65662300,6.83496500,,,0,11708,2,AJZ01,Cravanche
+20948,,Paul Bert,47.65446000,6.84749000,,,0,10497,1,PBE01,Belfort
+20949,,Paul Bert,47.65439000,6.84692600,,,0,10497,1,PBE02,Belfort
+22285,,Pensées,47.64652200,6.93468600,,,0,11297,1,Pen01,Bessoncourt
+22286,,Pensées,47.64636300,6.93443300,,,0,11297,1,Pen02,Bessoncourt
+22528,,Petit Pont,47.68639000,6.82565100,,,0,11422,2,Ppn01,Sermamagny
+22529,,Petit Pont,47.68632600,6.82579100,,,0,11422,2,Ppn02,Sermamagny
+22579,,Petit-Croix,47.61371000,6.97368000,,,0,11448,2,PtC01,Petit-Croix
+22580,,Petit-Croix,47.61360000,6.97358300,,,0,11448,2,PtC02,Petit-Croix
+22315,,Petitefontaine,47.72149300,7.00783200,,,0,11312,1,PtF01,Petitefontaine
+22316,,Petitefontaine,47.72140500,7.00785300,,,0,11312,1,PtF02,Petitefontaine
+22822,,Petitmagny,47.72191100,6.89800800,,,0,11398,2,PtM01,Petitmagny
+22867,,Phaffans,47.66011500,6.93575100,,,0,11600,1,AFJ01,Phaffans
+22868,,Phaffans,47.66018200,6.93573100,,,0,11600,1,AFJ02,Phaffans
+23149,,Philippe Grille,47.64191400,6.87120700,,,0,11767,2,phi01,Belfort
+22374,,Picard,47.64396900,6.86894100,,,0,11342,2,AHE02,Belfort
+20630,,Pierre Engel,47.61650000,6.84056000,,,0,10330,1,Psy01,Bavilliers
+21748,,Pierre Engel,47.61650500,6.84096500,,,0,10330,1,Psy02,Bavilliers
+22203,,Pierre Engel,47.61643200,6.84042000,,,0,10330,1,Psy03,Bavilliers
+20933,,Pins,47.63783000,6.82941000,,,0,10489,2,RDE01,Essert
+20934,,Pins,47.63786000,6.82953000,,,0,10489,2,RDE02,Essert
+22724,,Piscine,47.51834400,7.00112100,,,0,11524,1,Pis01,Delle
+22725,,Piscine,47.51835200,7.00126500,,,0,11524,1,Pis02,Delle
+22768,,Pistolet,47.70948000,6.92555000,,,0,11546,1,ADC01,Anjoutey
+22769,,Pistolet,47.70964000,6.92556000,,,0,11546,1,ADC02,Anjoutey
+23019,,Place,47.53889600,6.96540500,,,0,11693,2,AJL01,Grandvillars
+23023,,Place,47.53941100,6.96561700,,,0,11693,2,AJL02,Grandvillars
+22923,,Planchettes,47.68138700,6.80198500,,,0,11634,2,Pla01,Évette-Salbert
+22924,,Planchettes,47.68135200,6.80124900,,,0,11634,2,Pla02,Évette-Salbert
+20944,,Poincaré,47.62238300,6.84973500,,,0,10496,1,ELU01,Belfort
+20945,,Poincaré,47.62286800,6.84999200,,,0,10496,1,ELU02,Belfort
+22518,,Pointée,47.67672300,6.79268100,,,0,11417,2,poi01,Évette-Salbert
+22519,,Pointée,47.67678000,6.79262700,,,0,11417,2,poi02,Évette-Salbert
+22849,,Pommerot,47.67031000,6.94235200,,,0,11589,1,AEX01,Menoncourt
+22850,,Pommerot,47.67020400,6.94273400,,,0,11589,1,AEX02,Menoncourt
+22325,,Pont,47.72948500,6.97861200,,,0,11317,2,Pnt01,Leval
+22326,,Pont,47.72959300,6.97824800,,,0,11317,2,Pnt02,Leval
+20515,,Pont Blanc,47.66285700,6.85075500,,,0,10268,1,PoB01,Valdoie
+20516,,Pont Blanc,47.66352000,6.85045000,,,0,10268,1,PoB02,Valdoie
+22105,,Pont Canal,47.62270000,6.83850300,,,0,11183,1,PnC01,Bavilliers
+22106,,Pont Canal,47.62305500,6.83914100,,,0,11183,1,PnC02,Bavilliers
+22636,,Pont Suarcine,47.56314400,7.08231800,,,0,11477,2,ABT01,Suarce
+22637,,Pont Suarcine,47.56332900,7.08234700,,,0,11477,2,ABT02,Suarce
+23081,,Popins,47.49452500,6.91365300,,,0,11729,2,AKO01,Beaucourt
+23096,,Popins,47.49424200,6.91388900,,,0,11729,2,AKO02,Beaucourt
+20281,,Port de Botans,47.59847600,6.85966600,,,0,10146,1,Por01,Andelnans
+20282,,Port de Botans,47.59841000,6.85949500,,,0,10146,1,Por02,Botans
+22278,,Porte de Belfort,47.64095200,6.91724100,,,0,11293,1,AAB02,Bessoncourt
+22758,,Porte du Vallon,47.65036400,6.88955900,,,0,11541,2,ACX01,Denney
+22759,,Porte du Vallon,47.65018700,6.88957400,,,0,11541,2,ACX02,Denney
+22530,,Pouchotte,47.68796800,6.83152500,,,0,11423,2,Pch01,Sermamagny
+22531,,Pouchotte,47.68786300,6.83156100,,,0,11423,2,Pch02,Sermamagny
+22395,,Praille,47.60856100,6.91363100,,,0,11353,2,Pra01,Vézelois
+22396,,Praille,47.60887900,6.91336700,,,0,11353,2,Pra02,Vézelois
+22952,,Prairie,47.70568700,6.81834500,,,0,11651,2,AHT01,Lachapelle-sous-Chaux
+22884,,Primevères,47.64236700,6.93292200,,,0,11609,1,AFR01,Bessoncourt
+22885,,Primevères,47.64287600,6.93356700,,,0,11609,1,AFR02,Bessoncourt
+23082,,Pré Sergent,47.49905000,6.91302300,,,0,11730,2,AKP01,Dampierre-les-Bois
+23095,,Pré Sergent,47.49876700,6.91288900,,,0,11730,2,AKP02,Dampierre-les-Bois
+20235,,Prés d'Aumont,47.67838000,6.84945700,,,0,10123,1,Pdm01,Valdoie
+20236,,Prés d'Aumont,47.67859600,6.84982300,,,0,10123,1,Pdm02,Valdoie
+22776,,Prés Pignot,47.71956200,6.92795100,,,0,11550,1,ADH01,Étueffont
+22777,,Prés Pignot,47.71945700,6.92795900,,,0,11550,1,ADH02,Étueffont
+22273,,Pérouse,47.63686900,6.89286100,,,0,11291,1,AAA01,Pérouse
+22274,,Pérouse,47.63656100,6.89332900,,,0,11291,1,AAA02,Pérouse
+22003,,Rabin,47.64177300,6.85629000,,,0,11137,1,LEC01,Belfort
+22004,,Rabin,47.64168400,6.85606200,,,0,11137,1,LEC02,Belfort
+22577,,Ragie Rondat,47.61544100,6.96887000,,,0,11447,2,AHN01,Petit-Croix
+22578,,Ragie Rondat,47.61547400,6.96902400,,,0,11447,2,AHN02,Petit-Croix
+22461,,Rechotte,47.59200000,6.95611000,,,0,11387,2,Rct01,Autrechêne
+22462,,Rechotte,47.59197700,6.95621300,,,0,11387,2,Rct02,Autrechêne
+22440,,Recouvrance,47.57409500,6.98138800,,,0,11376,1,Rcv02,Recouvrance
+20537,,Renan,47.62644200,6.85147500,,,0,10279,1,Ren01,Belfort
+20538,,Renan,47.62648000,6.85207000,,,0,10279,1,Ren02,Belfort
+22516,,Renaud,47.67451800,6.79492600,,,0,11416,2,Rnd01,Évette-Salbert
+22517,,Renaud,47.67450900,6.79535600,,,0,11416,2,Rnd02,Évette-Salbert
+22344,,Reppe,47.66072700,7.02554100,,,0,11327,2,ReE01,Reppe
+22345,,Reppe,47.66067700,7.02562000,,,0,11327,2,ReE02,Reppe
+23052,,Restaurant,47.47118700,6.96302200,,,0,11710,2,ZZZ01,Saint-Dizier-l'Évêque
+22489,,Reydel,47.73037400,6.84715800,,,0,11401,1,Rey01,Rougegoutte
+22490,,Reydel,47.72997600,6.84768200,,,0,11401,2,Rey02,Rougegoutte
+22972,,Reydel,47.73051900,6.84699400,,,0,11401,2,Rey03,Rougegoutte
+22973,,Reydel,47.73054500,6.84713200,,,0,11401,2,Rey04,Rougegoutte
+22975,,Riervescemont,47.76499700,6.88067700,,,0,11665,2,AII1,Riervescemont
+22873,,Romagny,47.71734700,6.96818700,,,0,11603,2,AFL01,Romagny-sous-Rougemont
+22874,,Romagny,47.71754300,6.96836300,,,0,11603,2,AFL02,Romagny-sous-Rougemont
+20573,,Romaine,47.66121700,6.87100600,,,0,10301,1,Rom01,Offemont
+20574,,Romaine,47.66107600,6.87093900,,,0,10301,1,Rom02,Offemont
+23035,,Rondages,47.53804300,6.92114200,,,0,11701,2,AJS01,Méziré
+22760,,Roppe,47.66877400,6.91834900,,,0,11542,1,ACY01,Roppe
+22761,,Roppe,47.66970300,6.91881900,,,0,11542,1,ACY02,Roppe
+22802,,Rosemont,47.74267000,6.83681700,,,0,11563,1,ADU01,Giromagny
+22803,,Rosemont,47.74283400,6.83722800,,,0,11563,1,ADU02,Giromagny
+21023,,Rosemontoise,47.68630100,6.86157800,,,0,10532,1,Ros01,Éloie
+21024,,Rosemontoise,47.68628700,6.86167600,,,0,10532,1,Ros02,Éloie
+20502,,Roseraie,47.65073000,6.85188300,,,0,10261,1,ROs02,Belfort
+22078,,Roseraie,47.65034500,6.85220100,,,0,10261,1,ROs01,Belfort
+22841,,Rouches,47.67081500,6.92394800,,,0,11585,1,AET01,Roppe
+22842,,Rouches,47.67075600,6.92402300,,,0,11585,1,AET02,Roppe
+22540,,Route d'Auxelles,47.70761300,6.82142700,,,0,11428,2,ABI01,Lachapelle-sous-Chaux
+22541,,Route d'Auxelles,47.70772900,6.82148800,,,0,11428,2,ABI02,Lachapelle-sous-Chaux
+22475,,Route d'Eloie,47.71696200,6.87801300,,,0,11394,1,RdE01,Grosmagny
+22476,,Route d'Eloie,47.71734000,6.87823000,,,0,11394,1,RdE02,Grosmagny
+22778,,Route d'Etueffont,47.73527000,6.96327500,,,0,11551,2,ADI01,Rougemont-le-Château
+22779,,Route d'Etueffont,47.73546600,6.96495200,,,0,11551,2,ADI02,Rougemont-le-Château
+22532,,Route d'Evette,47.68908700,6.83563500,,,0,11424,1,RTE01,Sermamagny
+22533,,Route d'Evette,47.68961600,6.83572800,,,0,11424,2,RTE02,Sermamagny
+22184,,Route d'Urcerey,47.61633300,6.82939300,,,0,11238,1,RUr01,Bavilliers
+22185,,Route d'Urcerey,47.61641700,6.82950800,,,0,11238,1,RUr02,Bavilliers
+22655,,Route de Badevel,47.49067000,6.92627000,,,0,11488,2,Bad01,Beaucourt
+22656,,Route de Badevel,47.49070000,6.92639000,,,0,11488,2,Bad02,Beaucourt
+22297,,Route de Belfort,47.69529800,6.95890000,,,0,11303,2,RBe01,Saint-Germain-le-Châtelet
+22298,,Route de Belfort,47.69506200,6.95911900,,,0,11303,2,RBe02,Saint-Germain-le-Châtelet
+21141,,Route de Bermont,47.58437300,6.85802400,,,0,10593,1,Ber01,Bermont
+21142,,Route de Bermont,47.58389700,6.85776500,,,0,10593,1,Ber02,Bermont
+22648,,Route de Bâle,47.51848300,7.08481300,,,0,11484,2,ABX01,Courtelevant
+22649,,Route de Bâle,47.51845700,7.08526000,,,0,11484,2,ABX02,Courtelevant
+22393,,Route de Chèvremont,47.61006900,6.91464300,,,0,11352,2,RtC01,Vézelois
+22394,,Route de Chèvremont,47.61004600,6.91482100,,,0,11352,2,RtC02,Vézelois
+22622,,Route de Courtelevant,47.51095700,7.10469000,,,0,11470,2,Rco01,Réchésy
+22623,,Route de Courtelevant,47.51089900,7.10461500,,,0,11470,2,Rco02,Réchésy
+23071,,Route de Florimont,47.50990100,7.00838800,,,0,11723,2,AKN01,Delle
+23072,,Route de Florimont,47.50979500,7.00834000,,,0,11723,2,AKN02,Delle
+22447,,Route de Grosne,47.56017000,7.00882000,,,0,11380,2,RGr01,Boron
+22448,,Route de Grosne,47.56005000,7.00938000,,,0,11380,2,RGr02,Boron
+23062,,Route de la Forêt,47.66196900,6.78330700,,,0,11716,2,AKG01,Évette-Salbert
+22995,,Route de Montbéliard,47.55172000,6.85166900,,,0,11677,2,AIV01,Châtenois-les-Forges
+22998,,Route de Montbéliard,47.55167200,6.85151700,,,0,11677,2,AIV02,Châtenois-les-Forges
+22465,,Route de Novillard,47.60601900,6.92343300,,,0,11389,2,Rtn01,Vézelois
+22466,,Route de Novillard,47.60605400,6.92364400,,,0,11389,2,Rtn02,Vézelois
+22626,,Route de Pfetterhouse,47.50869600,7.11716800,,,0,11472,2,Rpf01,Réchésy
+22859,,Route de Phaffans,47.65630400,6.90145400,,,0,11596,1,AFD01,Denney
+22860,,Route de Phaffans,47.65623800,6.90168700,,,0,11596,1,AFD02,Denney
+22875,,Route de Romagny,47.72966200,6.96760800,,,0,11604,2,AFM01,Rougemont-le-Château
+22876,,Route de Romagny,47.72983000,6.96785600,,,0,11604,2,AFM02,Rougemont-le-Château
+22843,,Route de Roppe,47.67026100,6.92980900,,,0,11586,1,AEU01,Eguenigue
+22844,,Route de Roppe,47.67021500,6.93004200,,,0,11586,1,AEU02,Eguenigue
+22970,,Route de Rougegoutte,47.74426700,6.84719400,,,0,11663,2,AIF1,Vescemont
+22971,,Route de Rougegoutte,47.74352900,6.84753400,,,0,11663,2,AIF2,Vescemont
+22879,,Route de Rougemont,47.72331900,6.96982100,,,0,11606,2,AFO01,Romagny-sous-Rougemont
+22880,,Route de Rougemont,47.72346700,6.97001200,,,0,11606,2,AFO02,Leval
+21006,,Route de Sermamagny,47.68897200,6.87005000,,,0,10523,1,RTS01,Éloie
+21007,,Route de Sermamagny,47.68878000,6.86935800,,,0,10523,1,RTS02,Éloie
+22355,,Route de Vauthiermont,47.69452200,7.01331500,,,0,11332,2,AHI02,Angeot
+22839,,Route de Vétrigne,47.66708400,6.91319100,,,0,11584,1,AES01,Roppe
+22840,,Route de Vétrigne,47.66695700,6.91363600,,,0,11584,1,AES02,Roppe
+22902,,Route du Ballon,47.74415000,6.82488000,,,0,11620,1,AGB01,Giromagny
+21210,,Rte de Vourvenans,47.56383500,6.85603600,,,0,10627,1,RtV01,Châtenois-les-Forges
+21211,,Rte de Vourvenans,47.56409000,6.85638800,,,0,10627,1,RtV02,Trévenans
+20509,,Rubans,47.66217400,6.84317300,,,0,10265,1,Rub01,Valdoie
+20510,,Rubans,47.66203000,6.84328800,,,0,10265,1,Rub02,Valdoie
+23027,,Rue d'Autrechêne,47.57489800,6.93941500,,,0,11697,2,AJO,Charmois
+23031,,Rue d'Autrechêne,47.57494000,6.93947500,,,0,11697,2,AJO02,Charmois
+22709,,Rue d'Héricourt,47.59350000,6.81229000,,,0,11515,2,ACK01,Banvillars
+22710,,Rue d'Héricourt,47.59334000,6.81247000,,,0,11515,1,ACK02,Banvillars
+22467,,Rue de Brebotte,47.60310000,6.92885100,,,0,11390,2,RBr01,Vézelois
+22468,,Rue de Brebotte,47.60306000,6.92873700,,,0,11390,2,RBr02,Vézelois
+22208,,Rue de Buc,47.61964600,6.83192800,,,0,11243,1,Egl01,Bavilliers
+22209,,Rue de Buc,47.61948100,6.83183600,,,0,11243,1,Egl02,Bavilliers
+22986,,Rue de Charmois,47.59513800,6.89929000,,,0,11673,2,AIR01,Meroux-Moval
+22992,,Rue de Charmois,47.59506900,6.89926600,,,0,11673,2,AIR02,Meroux-Moval
+23181,,Rue de Foussemagne,47.65169500,7.00545200,,,0,11789,1,R2F01,Fontaine
+22486,,Rue de Giromagny,47.72034700,6.89824400,,,0,11399,1,ABA02,Petitmagny
+22821,,Rue de Giromagny,47.72042700,6.89843100,,,0,11399,2,AEF01,Petitmagny
+22401,,Rue de l'Ouvrage,47.59527000,6.89552800,,,0,11356,2,RuO01,Meroux-Moval
+22402,,Rue de l'Ouvrage,47.59532400,6.89573000,,,0,11356,2,RuO02,Meroux-Moval
+22966,,Rue de l'École,47.75387000,6.84832300,,,0,11660,2,AIC1,Vescemont
+23168,,Rue de l'École,47.75388800,6.84827200,,,0,11660,2,AIC2,Vescemont
+23016,,Rue de la Combatte,47.54268900,6.96736500,,,0,11690,2,AJI01,Grandvillars
+23022,,Rue de la Combatte,47.54272800,6.96729400,,,0,11690,2,AJI02,Grandvillars
+22405,,Rue de la Liberté,47.58755000,6.88869000,,,0,11358,2,AAO01,Meroux-Moval
+22406,,Rue de la Liberté,47.58768400,6.88860700,,,0,11358,2,AAO02,Meroux-Moval
+23127,,Rue de la Libération,47.50060200,6.98962000,,,0,11753,2,Libé1,Delle
+23128,,Rue de la Libération,47.50031400,6.98853600,,,0,11753,2,Libé2,Delle
+22947,,Rue de la Savoureuse,47.77349900,6.82914500,,,0,11648,2,AHQ01,Lepuix
+22948,,Rue de la Savoureuse,47.77287700,6.82909700,,,0,11648,2,AHQ02,Lepuix
+22988,,Rue de Meroux,47.60262200,6.87026600,,,0,11675,2,AIT01,Andelnans
+22991,,Rue de Meroux,47.60256700,6.87015300,,,0,11675,2,AIT02,Andelnans
+23177,,Rue de Reppe,47.66327600,7.01474100,,,0,11785,1,R2R01,Fontaine
+22536,,Rue de Sermamagny,47.70085800,6.82557600,,,0,11426,1,ABG01,Lachapelle-sous-Chaux
+22537,,Rue de Sermamagny,47.70089800,6.82569100,,,0,11426,2,ABG02,Lachapelle-sous-Chaux
+22483,,Rue de Valdoie,47.66890400,6.82000600,,,0,11408,2,AAZ01,Évette-Salbert
+22501,,Rue de Valdoie,47.66910900,6.81918700,,,0,11408,1,ABB02,Évette-Salbert
+22663,,Rue de Vandoncourt,47.48240000,6.91649800,,,0,11492,1,Rva01,Beaucourt
+22664,,Rue de Vandoncourt,47.48195400,6.91622700,,,0,11492,2,Rva02,Beaucourt
+22451,,Rue de Vellescot,47.56315000,7.01181000,,,0,11382,2,RdV01,Boron
+22452,,Rue de Vellescot,47.56337000,7.01192000,,,0,11382,1,RdV02,Boron
+22399,,Rue de Vézelois,47.59769200,6.89894100,,,0,11355,1,RTV01,Meroux-Moval
+22400,,Rue de Vézelois,47.59736600,6.89938500,,,0,11355,1,RTV02,Meroux-Moval
+21712,,Rue des Alisiers,47.58800500,6.88679400,,,0,10966,1,RMe01,Meroux-Moval
+21713,,Rue des Alisiers,47.58804700,6.88614300,,,0,10966,1,RMe02,Meroux-Moval
+22968,,Rue des Carrières,47.74962500,6.84982000,,,0,11662,2,AID1,Vescemont
+22969,,Rue des Carrières,47.74909500,6.84951900,,,0,11662,2,AID2,Vescemont
+22958,,Rue des Creuses,47.69975200,6.81470100,,,0,11657,1,AHZ1,Lachapelle-sous-Chaux
+20289,,Rue des Soies,47.58683800,6.88134800,,,0,10150,1,Mmo01,Meroux-Moval
+20290,,Rue des Soies,47.58694500,6.88197300,,,0,10150,1,Mmo02,Meroux-Moval
+22403,,Rue du 15 Juillet,47.59205000,6.89131100,,,0,11357,1,R1501,Meroux-Moval
+22404,,Rue du 15 Juillet,47.59222600,6.89175100,,,0,11357,1,R1502,Meroux-Moval
+23003,,Rue du Canal,47.56094000,6.86497900,,,0,11683,2,AJB01,Trévenans
+23004,,Rue du Canal,47.56095200,6.86485100,,,0,11683,2,AJB02,Trévenans
+23059,,Rue du Moulin,47.60786100,6.97033700,,,0,11714,2,AKE01,Novillard
+22435,,Rue du Stade,47.56465900,6.95229900,,,0,11374,2,RdS01,Froidefontaine
+22436,,Rue du Stade,47.56455300,6.95236200,,,0,11374,2,RdS02,Froidefontaine
+22921,,Rue du Yers,47.68256400,6.79440500,,,0,11633,2,Yer01,Évette-Salbert
+22922,,Rue du Yers,47.68241800,6.79474500,,,0,11633,2,Yer02,Évette-Salbert
+22646,,Ruisseau,47.59233600,7.04616500,,,0,11482,2,rui01,Chavannes-les-Grands
+23015,,Ruisseau,47.59247800,7.04627300,,,0,11482,2,rui02,Chavannes-les-Grands
+22949,,Ruisseau de la Goutte,47.77660300,6.83448000,,,0,11649,2,AHR01,Lepuix
+22950,,Ruisseau de la Goutte,47.77664300,6.83467600,,,0,11649,2,AHR02,Lepuix
+22624,,Réchésy,47.50825000,7.11057000,,,0,11471,2,ABR01,Réchésy
+22625,,Réchésy,47.50827500,7.11068400,,,0,11471,2,ABR02,Réchésy
+20493,,République,47.63880000,6.86117400,,,0,10257,1,Rep01,Belfort
+20494,,République,47.63898000,6.86124000,,,0,10257,1,Rep02,Belfort
+22266,,République,47.63974800,6.86125500,,,0,11287,1,REp01,Belfort
+21925,,Saget,47.64110000,6.84102600,,,0,11101,1,SAG01,Belfort
+21926,,Saget,47.64113600,6.84128500,,,0,11101,1,SAG02,Belfort
+22497,,Saint Joseph,47.74374300,6.83281100,,,0,11405,1,StJ01,Giromagny
+22498,,Saint Joseph,47.74371500,6.83235300,,,0,11405,1,StJ02,Giromagny
+23084,,Saint Laurent,47.50479600,6.91331300,,,0,11732,2,APR01,Dampierre-les-Bois
+23093,,Saint Laurent,47.50474500,6.91323800,,,0,11732,2,APR02,Dampierre-les-Bois
+22681,,Saint-Dizier,47.47092200,6.96204000,,,0,11501,2,ACC01,Saint-Dizier-l'Évêque
+22682,,Saint-Dizier,47.47095000,6.96211000,,,0,11501,2,ACC02,Saint-Dizier-l'Évêque
+22299,,Saint-Germain-le-Châtelet,47.69921000,6.95848400,,,0,11304,1,StG01,Saint-Germain-le-Châtelet
+22300,,Saint-Germain-le-Châtelet,47.69864300,6.95827500,,,0,11304,1,StG02,Saint-Germain-le-Châtelet
+23219,,Saints Prés,47.61324800,6.90611000,,,0,11817,2,S1pr1,Vézelois
+20507,,Salbert,47.65833900,6.84459400,,,0,10264,1,Sal01,Belfort
+20508,,Salbert,47.65841700,6.84466100,,,0,10264,1,Sal02,Belfort
+23017,,Salle des Fêtes,47.53895400,6.97466600,,,0,11691,2,AJJ01,Grandvillars
+23021,,Salle des Fêtes,47.53903700,6.97465600,,,0,11691,2,AJJ02,Grandvillars
+23008,,Sapins,47.61796000,6.96637500,,,0,11686,2,AJE01,Petit-Croix
+23013,,Sapins,47.61775900,6.96629800,,,0,11686,2,AJE02,Petit-Croix
+22788,,Sappois,47.71548000,6.83507000,,,0,11556,1,ADN01,Chaux
+22789,,Sappois,47.71571000,6.83503000,,,0,11556,1,ADN02,Chaux
+21014,,Savoureuse,47.66605000,6.84309500,,,0,10527,1,Sav01,Valdoie
+22048,,Savoureuse,47.66572000,6.84322500,,,0,10527,1,Sav02,Valdoie
+23150,,Schmittlein,47.64387100,6.87377000,,,0,11768,2,Scho1,Belfort
+20481,,Schuman,47.63329000,6.83844000,,,0,10251,1,Sch01,Belfort
+20482,,Schuman,47.63332700,6.83843800,,,0,10251,1,Sch02,Belfort
+21784,,Schwob,47.63424300,6.86118600,,,0,10998,1,Scw01,Belfort
+21941,,Schwob,47.63422700,6.86131100,,,0,10998,1,Scw02,Belfort
+23066,,Scierie,47.61490000,6.78142300,,,0,11719,2,AKJ01,Buc
+22555,,Secs Prés,47.62282000,6.99806000,,,0,11436,2,SCp01,Cunelières
+22556,,Secs Prés,47.62279000,6.99820000,,,0,11436,2,SCp02,Cunelières
+20564,,Sellier,47.63266000,6.86834000,,,0,10295,1,Sel01,Belfort
+20565,,Sellier,47.63269400,6.86837600,,,0,10295,1,Sel02,Belfort
+22534,,Sermamagny,47.69279300,6.83532000,,,0,11425,1,AHM01,Sermamagny
+22535,,Sermamagny,47.69237500,6.83568300,,,0,11425,1,AHM02,Sermamagny
+22065,,Sernam,47.63102700,6.85550700,,,0,11164,1,Ser01,Belfort
+22066,,Sernam,47.63089400,6.85555600,,,0,11164,1,Ser02,Belfort
+22913,,Serrurerie,47.74170700,6.77728400,,,0,11628,2,AHB01,Auxelles-Haut
+22914,,Serrurerie,47.74178800,6.77690300,,,0,11628,2,AHB02,Auxelles-Haut
+20479,,Signoret,47.62958000,6.84048600,,,0,10250,1,Lyc01,Belfort
+20480,,Signoret,47.62949000,6.84062600,,,0,10250,1,Lyc02,Belfort
+23024,,Sorbier,47.67124600,6.99061500,,,0,11695,2,AJG01,Larivière
+23063,,Sorbier,47.67129500,6.99043700,,,0,11695,2,AJG02,Larivière
+22204,,St Antonin,47.61336000,6.83949600,,,0,11241,1,StA01,Bavilliers
+22205,,St Antonin,47.61360500,6.83964200,,,0,11241,1,StA02,Bavilliers
+22491,,St Georges,47.73375200,6.85005700,,,0,11402,1,SGe01,Rougegoutte
+22492,,St Georges,47.73366100,6.84980900,,,0,11402,2,SGe02,Rougegoutte
+22334,,St Martin,47.63601100,6.99598800,,,0,11322,2,StM01,Foussemagne
+22335,,St Martin,47.63591000,6.99598000,,,0,11322,2,StM02,Foussemagne
+22726,,Stade,47.51437300,7.00095100,,,0,11525,1,Sta01,Delle
+22727,,Stade,47.51455000,7.00106000,,,0,11525,1,Sta02,Delle
+21808,,Ste Thérèse,47.64092600,6.83827100,,,0,11014,1,Sth01,Belfort
+21809,,Ste Thérèse,47.64059400,6.83793300,,,0,11014,1,Sth02,Belfort
+20497,,Strasbourg,47.64587400,6.85533900,,,0,10259,1,Str01,Belfort
+20498,,Strasbourg,47.64624000,6.85516600,,,0,10259,1,Str02,Belfort
+22059,,Strolz,47.63957000,6.85593100,,,0,11161,1,Slz01,Belfort
+22060,,Strolz,47.63907900,6.85595300,,,0,11161,1,Slz02,Belfort
+22638,,Suarce,47.56541100,7.07828000,,,0,11478,2,ABU01,Suarce
+22639,,Suarce,47.56543300,7.07844100,,,0,11478,2,ABU02,Suarce
+23037,,Sur la Ville,47.70548400,6.97724200,,,0,11702,2,AJT01,Felon
+20285,,Sévenans UTBM,47.58593800,6.86717600,,,0,10148,1,Sev01,Sevenans
+20286,,Sévenans UTBM,47.58578500,6.86557600,,,0,10148,1,Sev02,Sevenans
+22925,,Taillis,47.68115900,6.78900000,,,0,11635,2,Tai01,Évette-Salbert
+22926,,Taillis,47.68133000,6.78886600,,,0,11635,2,Tai02,Évette-Salbert
+20255,,Techn'Hom 1/UTBM,47.64180800,6.84159600,,,0,10133,1,Utb01,Belfort
+20256,,Techn'Hom 1/UTBM,47.64095300,6.84181100,,,0,10133,1,Utb02,Belfort
+20251,,Techn'Hom 2,47.64767500,6.83927300,,,0,10131,2,Als01,Belfort
+20252,,Techn'Hom 2,47.64758300,6.83922600,,,0,10131,1,Als02,Belfort
+20249,,Techn'Hom 3,47.65151000,6.83735400,,,0,10130,1,Usi01,Belfort
+20250,,Techn'Hom 3,47.65208000,6.83700600,,,0,10130,1,Usi02,Belfort
+20548,,Techn'Hom Cravanche,47.65291600,6.83241000,,,0,10287,1,Cra01,Cravanche
+21744,,Techn'Hom Cravanche,47.65291600,6.83241000,,,0,10287,1,Cra02,Cravanche
+20931,,Terrasses,47.63823000,6.83235000,,,0,10488,2,TER01,Essert
+20932,,Terrasses,47.63841000,6.83352000,,,0,10488,2,TER02,Belfort
+22618,,Terrières,47.51416000,7.06844200,,,0,11468,2,ter01,Florimont
+22619,,Terrières,47.51406500,7.06828000,,,0,11468,2,ter02,Florimont
+22510,,Thiamont,47.66665100,6.78902900,,,0,11413,2,Thi01,Évette-Salbert
+22602,,Thiancourt,47.52280600,6.98732600,,,0,11460,2,ABL01,Thiancourt
+22603,,Thiancourt,47.52278900,6.98779700,,,0,11460,2,ABL02,Thiancourt
+22900,,Thiers,47.74316000,6.82143000,,,0,11619,1,AGA01,Giromagny
+22901,,Thiers,47.74328800,6.82059200,,,0,11619,2,AGA02,Giromagny
+22745,,Tilleul,47.65725600,6.99725800,,,0,11534,1,ACQ01,Fontaine
+22746,,Tilleul,47.65729200,6.99746800,,,0,11534,2,ACQ02,Fontaine
+22845,,Tramway,47.66919900,6.93647800,,,0,11587,1,AEV01,Eguenigue
+22846,,Tramway,47.66919300,6.93700700,,,0,11587,1,AEV02,Eguenigue
+22391,,Trémont,47.62115300,6.92181200,,,0,11351,2,AAN01,Chèvremont
+22392,,Trémont,47.62178800,6.92237800,,,0,11351,2,AAN02,Chèvremont
+20309,,Trévenans,47.56905000,6.86193300,,,0,10160,1,Mtr01,Trévenans
+20310,,Trévenans,47.56837500,6.86181100,,,0,10160,1,Mtr02,Trévenans
+23026,,Tuilerie,47.55799000,6.94061400,,,0,11696,2,AJN,Froidefontaine
+23032,,Tuilerie,47.55800600,6.94046200,,,0,11696,2,AJN02,Froidefontaine
+20239,,Turenne,47.66798400,6.84183800,,,0,10125,1,Tur01,Valdoie
+20240,,Turenne,47.66868000,6.84186500,,,0,10125,1,Tur02,Valdoie
+22267,,Universités,47.64050600,6.86443800,,,0,11288,2,Uni01,Belfort
+22268,,Universités,47.64039600,6.86452100,,,0,11288,2,Uni02,Belfort
+22713,,Urcerey,47.60795500,6.80884300,,,0,11517,2,ACM01,Urcerey
+22714,,Urcerey,47.60810600,6.80925400,,,0,11517,2,ACM02,Urcerey
+20968,,Valdoie Blumberg,47.66476500,6.84332800,,,0,10507,1,VaB02,Valdoie
+23061,,Valdoie Blumberg,47.66464800,6.84283500,,,0,10507,1,VaB03,Valdoie
+20241,,Valdoie Mairie,47.66518000,6.84169300,,,0,10126,1,VaM01,Valdoie
+20269,,Varonne,47.62306200,6.86303000,,,0,10140,1,Var01,Danjoutin
+20270,,Varonne,47.62273800,6.86281500,,,0,10140,1,Var02,Danjoutin
+22350,,Vauthiermont,47.68473100,7.03203600,,,0,11330,1,AAJ01,Vauthiermont
+22453,,Vellescot,47.57252600,7.01417900,,,0,11383,1,AAT01,Vellescot
+22454,,Vellescot,47.57264700,7.01452400,,,0,11383,1,AAT02,Vellescot
+22485,,Verboté,47.66918000,6.82358600,,,0,11407,2,VEr02,Évette-Salbert
+22500,,Verboté,47.66914800,6.82386300,,,0,11407,2,VEr01,Évette-Salbert
+22809,,Verdots,47.49069000,6.91918000,,,0,11567,2,ADZ01,Beaucourt
+22810,,Verdots,47.49097300,6.91880100,,,0,11567,2,ADZ02,Beaucourt
+21010,,Verdoyeux,47.69228700,6.87646300,,,0,10525,1,Ver01,Éloie
+21011,,Verdoyeux,47.69241000,6.87661000,,,0,10525,1,Ver02,Éloie
+23028,,Vergers,47.57170500,6.94136200,,,0,11698,2,AJP,Charmois
+23030,,Vergers,47.57169700,6.94149200,,,0,11698,2,AJP02,Charmois
+22612,,Vernattes,47.52273400,7.02788200,,,0,11465,2,Vnt01,Faverois
+22613,,Vernattes,47.52253800,7.02806400,,,0,11465,2,Vnt02,Faverois
+23007,,Vernois,47.63290100,7.00883400,,,0,11685,2,AJD01,Foussemagne
+22495,,Vescemont,47.74326100,6.84566400,,,0,11404,2,Ves01,Vescemont
+22496,,Vescemont,47.74330300,6.84541000,,,0,11404,2,Ves02,Vescemont
+22342,,Vie de Ban,47.65791500,7.02484400,,,0,11326,2,VdB01,Reppe
+22343,,Vie de Ban,47.65781300,7.02481100,,,0,11326,2,VdB02,Reppe
+23054,,Vieux Lavoir,47.67061800,6.94750800,,,0,11711,2,AKB01,Menoncourt
+23056,,Vieux Lavoir,47.67083600,6.94843400,,,0,11711,2,AKB02,Menoncourt
+22673,,Villars le Sec,47.45634100,6.99085900,,,0,11497,2,VlS01,Villars-le-Sec
+22674,,Villars le Sec,47.45645700,6.99022800,,,0,11497,2,VlS02,Villars-le-Sec
+22730,,Voivre,47.53132000,6.99671800,,,0,11527,1,Voi01,Joncherey
+22731,,Voivre,47.53170700,6.99658800,,,0,11527,1,Voi02,Joncherey
+22443,,Vosges,47.57593400,6.99543100,,,0,11378,2,VOS01,Grosne
+22444,,Vosges,47.57612300,6.99489400,,,0,11378,2,VOS02,Grosne
+22526,,Véronne,47.68530200,6.81966500,,,0,11421,2,VER01,Sermamagny
+22527,,Véronne,47.68516900,6.81969100,,,0,11421,2,VER02,Sermamagny
+22835,,Vétrigne,47.66984600,6.89839600,,,0,11582,1,AEQ01,Vétrigne
+22836,,Vétrigne,47.66984700,6.89893300,,,0,11582,1,AEQ02,Vétrigne
+22463,,Vézelois,47.60699100,6.91706400,,,0,11388,1,Vez01,Vézelois
+22464,,Vézelois,47.60712500,6.91956500,,,0,11388,1,Vez02,Vézelois
+22736,,ZA Pellerie,47.54199500,6.95931400,,,0,11530,1,ZAP01,Grandvillars
+22737,,ZA Pellerie,47.54211800,6.95922400,,,0,11530,1,ZAP02,Grandvillars
+22697,,Zac des Saules,47.59707000,6.85648000,,,0,11509,2,Zau01,Botans
+22698,,Zac des Saules,47.59706000,6.85635000,,,0,11509,2,Zau02,Botans
+22279,,ZAC Est,47.64245000,6.92010000,,,0,11294,1,ZaE01,Bessoncourt
+22280,,ZAC Est,47.64250000,6.92025700,,,0,11294,1,ZaE02,Bessoncourt
+22275,,ZAC Ouest,47.64231100,6.91407700,,,0,11292,1,ZaO01,Bessoncourt
+22276,,ZAC Ouest,47.64236100,6.91457400,,,0,11292,1,ZaO02,Bessoncourt
+22194,,ZI de Baviliers,47.61156000,6.82799800,,,0,11239,2,ZiB01,Bavilliers
+22195,,ZI de Baviliers,47.61153800,6.82822800,,,0,11239,2,ZiB02,Bavilliers
+22419,,Zi de Bourogne,47.55052000,6.92127000,,,0,11365,2,AHC01,Bourogne
+22368,,Zone Industrielle,47.68223000,6.97440300,,,0,11339,2,ZIn01,Lagrange
+22369,,Zone Industrielle,47.68216200,6.97430300,,,0,11339,2,ZIn02,Bethonvilliers
+22433,,Écluse,47.56597100,6.94410000,,,0,11373,1,Ecl01,Froidefontaine
+22434,,Écluse,47.56578200,6.94422200,,,0,11373,1,Ecl02,Froidefontaine
+22506,,École des Sources,47.67335600,6.80731600,,,0,11411,2,ABD01,Évette-Salbert
+22507,,École des Sources,47.67348400,6.80722100,,,0,11411,2,ABD02,Évette-Salbert
+23012,,Église de Grosne,47.57493300,6.99975000,,,0,11689,2,AIH01,Grosne
